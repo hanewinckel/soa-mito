@@ -1,0 +1,1391 @@
+"Notes"	"Census Region"	"Census Region Code"	"State"	"State Code"	"Gender"	"Gender Code"	"Age Group"	"Age Group Code"	Deaths	Population	Crude Rate
+	"Census Region 1: Northeast"	"CENS-R1"	"Connecticut"	"09"	"Female"	"F"	"< 1 year"	"1"	581	126242	460.2
+	"Census Region 1: Northeast"	"CENS-R1"	"Connecticut"	"09"	"Female"	"F"	"1-4 years"	"1-4"	63	532142	11.8
+	"Census Region 1: Northeast"	"CENS-R1"	"Connecticut"	"09"	"Female"	"F"	"5-9 years"	"5-9"	71	730101	9.7
+	"Census Region 1: Northeast"	"CENS-R1"	"Connecticut"	"09"	"Female"	"F"	"10-14 years"	"10-14"	68	792251	8.6
+	"Census Region 1: Northeast"	"CENS-R1"	"Connecticut"	"09"	"Female"	"F"	"15-19 years"	"15-19"	172	864047	19.9
+	"Census Region 1: Northeast"	"CENS-R1"	"Connecticut"	"09"	"Female"	"F"	"20-24 years"	"20-24"	310	801789	38.7
+	"Census Region 1: Northeast"	"CENS-R1"	"Connecticut"	"09"	"Female"	"F"	"25-34 years"	"25-34"	820	1514707	54.1
+	"Census Region 1: Northeast"	"CENS-R1"	"Connecticut"	"09"	"Female"	"F"	"35-44 years"	"35-44"	1569	1610671	97.4
+	"Census Region 1: Northeast"	"CENS-R1"	"Connecticut"	"09"	"Female"	"F"	"45-54 years"	"45-54"	4645	1993332	233.0
+	"Census Region 1: Northeast"	"CENS-R1"	"Connecticut"	"09"	"Female"	"F"	"55-64 years"	"55-64"	8511	1726446	493.0
+	"Census Region 1: Northeast"	"CENS-R1"	"Connecticut"	"09"	"Female"	"F"	"65-74 years"	"65-74"	13466	1094609	1230.2
+	"Census Region 1: Northeast"	"CENS-R1"	"Connecticut"	"09"	"Female"	"F"	"75-84 years"	"75-84"	24624	665601	3699.5
+	"Census Region 1: Northeast"	"CENS-R1"	"Connecticut"	"09"	"Female"	"F"	"85+ years"	"85+"	53126	414708	12810.5
+	"Census Region 1: Northeast"	"CENS-R1"	"Connecticut"	"09"	"Male"	"M"	"< 1 year"	"1"	716	132042	542.3
+	"Census Region 1: Northeast"	"CENS-R1"	"Connecticut"	"09"	"Male"	"M"	"1-4 years"	"1-4"	107	556105	19.2
+	"Census Region 1: Northeast"	"CENS-R1"	"Connecticut"	"09"	"Male"	"M"	"5-9 years"	"5-9"	70	762027	9.2
+	"Census Region 1: Northeast"	"CENS-R1"	"Connecticut"	"09"	"Male"	"M"	"10-14 years"	"10-14"	94	830324	11.3
+	"Census Region 1: Northeast"	"CENS-R1"	"Connecticut"	"09"	"Male"	"M"	"15-19 years"	"15-19"	363	905326	40.1
+	"Census Region 1: Northeast"	"CENS-R1"	"Connecticut"	"09"	"Male"	"M"	"20-24 years"	"20-24"	932	863993	107.9
+	"Census Region 1: Northeast"	"CENS-R1"	"Connecticut"	"09"	"Male"	"M"	"25-34 years"	"25-34"	2135	1532550	139.3
+	"Census Region 1: Northeast"	"CENS-R1"	"Connecticut"	"09"	"Male"	"M"	"35-44 years"	"35-44"	2880	1536948	187.4
+	"Census Region 1: Northeast"	"CENS-R1"	"Connecticut"	"09"	"Male"	"M"	"45-54 years"	"45-54"	7541	1884951	400.1
+	"Census Region 1: Northeast"	"CENS-R1"	"Connecticut"	"09"	"Male"	"M"	"55-64 years"	"55-64"	13526	1612123	839.0
+	"Census Region 1: Northeast"	"CENS-R1"	"Connecticut"	"09"	"Male"	"M"	"65-74 years"	"65-74"	17119	945800	1810.0
+	"Census Region 1: Northeast"	"CENS-R1"	"Connecticut"	"09"	"Male"	"M"	"75-84 years"	"75-84"	24088	476700	5053.1
+	"Census Region 1: Northeast"	"CENS-R1"	"Connecticut"	"09"	"Male"	"M"	"85+ years"	"85+"	30493	201308	15147.4
+	"Census Region 1: Northeast"	"CENS-R1"	"Connecticut"	"09"	"Male"	"M"	"Not Stated"	"NS"	10	Not Applicable	Not Applicable
+	"Census Region 1: Northeast"	"CENS-R1"	"Maine"	"23"	"Female"	"F"	"< 1 year"	"1"	264	43483	607.1
+	"Census Region 1: Northeast"	"CENS-R1"	"Maine"	"23"	"Female"	"F"	"1-4 years"	"1-4"	36	182182	19.8
+	"Census Region 1: Northeast"	"CENS-R1"	"Maine"	"23"	"Female"	"F"	"5-9 years"	"5-9"	22	244938	9.0
+	"Census Region 1: Northeast"	"CENS-R1"	"Maine"	"23"	"Female"	"F"	"10-14 years"	"10-14"	27	258752	10.4
+	"Census Region 1: Northeast"	"CENS-R1"	"Maine"	"23"	"Female"	"F"	"15-19 years"	"15-19"	79	283510	27.9
+	"Census Region 1: Northeast"	"CENS-R1"	"Maine"	"23"	"Female"	"F"	"20-24 years"	"20-24"	129	270807	47.6
+	"Census Region 1: Northeast"	"CENS-R1"	"Maine"	"23"	"Female"	"F"	"25-34 years"	"25-34"	343	529264	64.8
+	"Census Region 1: Northeast"	"CENS-R1"	"Maine"	"23"	"Female"	"F"	"35-44 years"	"35-44"	723	565758	127.8
+	"Census Region 1: Northeast"	"CENS-R1"	"Maine"	"23"	"Female"	"F"	"45-54 years"	"45-54"	2013	732528	274.8
+	"Census Region 1: Northeast"	"CENS-R1"	"Maine"	"23"	"Female"	"F"	"55-64 years"	"55-64"	4173	731171	570.7
+	"Census Region 1: Northeast"	"CENS-R1"	"Maine"	"23"	"Female"	"F"	"65-74 years"	"65-74"	6917	481158	1437.6
+	"Census Region 1: Northeast"	"CENS-R1"	"Maine"	"23"	"Female"	"F"	"75-84 years"	"75-84"	11944	279898	4267.3
+	"Census Region 1: Northeast"	"CENS-R1"	"Maine"	"23"	"Female"	"F"	"85+ years"	"85+"	20473	143775	14239.6
+	"Census Region 1: Northeast"	"CENS-R1"	"Maine"	"23"	"Male"	"M"	"< 1 year"	"1"	307	46245	663.9
+	"Census Region 1: Northeast"	"CENS-R1"	"Maine"	"23"	"Male"	"M"	"1-4 years"	"1-4"	41	192620	21.3
+	"Census Region 1: Northeast"	"CENS-R1"	"Maine"	"23"	"Male"	"M"	"5-9 years"	"5-9"	37	258693	14.3
+	"Census Region 1: Northeast"	"CENS-R1"	"Maine"	"23"	"Male"	"M"	"10-14 years"	"10-14"	39	273055	14.3
+	"Census Region 1: Northeast"	"CENS-R1"	"Maine"	"23"	"Male"	"M"	"15-19 years"	"15-19"	200	301627	66.3
+	"Census Region 1: Northeast"	"CENS-R1"	"Maine"	"23"	"Male"	"M"	"20-24 years"	"20-24"	349	282584	123.5
+	"Census Region 1: Northeast"	"CENS-R1"	"Maine"	"23"	"Male"	"M"	"25-34 years"	"25-34"	867	527216	164.4
+	"Census Region 1: Northeast"	"CENS-R1"	"Maine"	"23"	"Male"	"M"	"35-44 years"	"35-44"	1214	548902	221.2
+	"Census Region 1: Northeast"	"CENS-R1"	"Maine"	"23"	"Male"	"M"	"45-54 years"	"45-54"	3419	702202	486.9
+	"Census Region 1: Northeast"	"CENS-R1"	"Maine"	"23"	"Male"	"M"	"55-64 years"	"55-64"	6919	690294	1002.3
+	"Census Region 1: Northeast"	"CENS-R1"	"Maine"	"23"	"Male"	"M"	"65-74 years"	"65-74"	9561	446097	2143.3
+	"Census Region 1: Northeast"	"CENS-R1"	"Maine"	"23"	"Male"	"M"	"75-84 years"	"75-84"	12390	216704	5717.5
+	"Census Region 1: Northeast"	"CENS-R1"	"Maine"	"23"	"Male"	"M"	"85+ years"	"85+"	11847	72751	16284.3
+	"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Female"	"F"	"< 1 year"	"1"	925	246597	375.1
+	"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Female"	"F"	"1-4 years"	"1-4"	159	1002837	15.9
+	"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Female"	"F"	"5-9 years"	"5-9"	102	1300553	7.8
+	"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Female"	"F"	"10-14 years"	"10-14"	102	1369155	7.4
+	"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Female"	"F"	"15-19 years"	"15-19"	276	1601214	17.2
+	"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Female"	"F"	"20-24 years"	"20-24"	628	1707906	36.8
+	"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Female"	"F"	"25-34 years"	"25-34"	1757	3198653	54.9
+	"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Female"	"F"	"35-44 years"	"35-44"	3146	3040113	103.5
+	"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Female"	"F"	"45-54 years"	"45-54"	8283	3565714	232.3
+	"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Female"	"F"	"55-64 years"	"55-64"	15985	3155277	506.6
+	"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Female"	"F"	"65-74 years"	"65-74"	25395	2017281	1258.9
+	"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Female"	"F"	"75-84 years"	"75-84"	46784	1221995	3828.5
+	"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Female"	"F"	"85+ years"	"85+"	95530	729958	13087.1
+	"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Male"	"M"	"< 1 year"	"1"	1216	258108	471.1
+	"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Male"	"M"	"1-4 years"	"1-4"	164	1046224	15.7
+	"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Male"	"M"	"5-9 years"	"5-9"	125	1355367	9.2
+	"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Male"	"M"	"10-14 years"	"10-14"	156	1427078	10.9
+	"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Male"	"M"	"15-19 years"	"15-19"	688	1628950	42.2
+	"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Male"	"M"	"20-24 years"	"20-24"	1707	1712539	99.7
+	"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Male"	"M"	"25-34 years"	"25-34"	4534	3153578	143.8
+	"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Male"	"M"	"35-44 years"	"35-44"	5623	2901227	193.8
+	"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Male"	"M"	"45-54 years"	"45-54"	13909	3384661	410.9
+	"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Male"	"M"	"55-64 years"	"55-64"	25111	2908033	863.5
+	"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Male"	"M"	"65-74 years"	"65-74"	32894	1726362	1905.4
+	"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Male"	"M"	"75-84 years"	"75-84"	45935	866731	5299.8
+	"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Male"	"M"	"85+ years"	"85+"	52865	344165	15360.4
+	"Census Region 1: Northeast"	"CENS-R1"	"New Hampshire"	"33"	"Female"	"F"	"< 1 year"	"1"	174	43309	401.8
+	"Census Region 1: Northeast"	"CENS-R1"	"New Hampshire"	"33"	"Female"	"F"	"1-4 years"	"1-4"	33	183114	18.0
+	"Census Region 1: Northeast"	"CENS-R1"	"New Hampshire"	"33"	"Female"	"F"	"5-9 years"	"5-9"	17	253427	6.7 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"New Hampshire"	"33"	"Female"	"F"	"10-14 years"	"10-14"	36	275299	13.1
+	"Census Region 1: Northeast"	"CENS-R1"	"New Hampshire"	"33"	"Female"	"F"	"15-19 years"	"15-19"	69	310184	22.2
+	"Census Region 1: Northeast"	"CENS-R1"	"New Hampshire"	"33"	"Female"	"F"	"20-24 years"	"20-24"	122	302035	40.4
+	"Census Region 1: Northeast"	"CENS-R1"	"New Hampshire"	"33"	"Female"	"F"	"25-34 years"	"25-34"	384	523564	73.3
+	"Census Region 1: Northeast"	"CENS-R1"	"New Hampshire"	"33"	"Female"	"F"	"35-44 years"	"35-44"	645	576979	111.8
+	"Census Region 1: Northeast"	"CENS-R1"	"New Hampshire"	"33"	"Female"	"F"	"45-54 years"	"45-54"	1831	758961	241.3
+	"Census Region 1: Northeast"	"CENS-R1"	"New Hampshire"	"33"	"Female"	"F"	"55-64 years"	"55-64"	3594	685138	524.6
+	"Census Region 1: Northeast"	"CENS-R1"	"New Hampshire"	"33"	"Female"	"F"	"65-74 years"	"65-74"	5760	420477	1369.9
+	"Census Region 1: Northeast"	"CENS-R1"	"New Hampshire"	"33"	"Female"	"F"	"75-84 years"	"75-84"	9395	230778	4071.0
+	"Census Region 1: Northeast"	"CENS-R1"	"New Hampshire"	"33"	"Female"	"F"	"85+ years"	"85+"	17068	126924	13447.4
+	"Census Region 1: Northeast"	"CENS-R1"	"New Hampshire"	"33"	"Male"	"M"	"< 1 year"	"1"	210	45366	462.9
+	"Census Region 1: Northeast"	"CENS-R1"	"New Hampshire"	"33"	"Male"	"M"	"1-4 years"	"1-4"	39	191225	20.4
+	"Census Region 1: Northeast"	"CENS-R1"	"New Hampshire"	"33"	"Male"	"M"	"5-9 years"	"5-9"	25	262180	9.5
+	"Census Region 1: Northeast"	"CENS-R1"	"New Hampshire"	"33"	"Male"	"M"	"10-14 years"	"10-14"	33	288151	11.5
+	"Census Region 1: Northeast"	"CENS-R1"	"New Hampshire"	"33"	"Male"	"M"	"15-19 years"	"15-19"	143	323122	44.3
+	"Census Region 1: Northeast"	"CENS-R1"	"New Hampshire"	"33"	"Male"	"M"	"20-24 years"	"20-24"	397	315652	125.8
+	"Census Region 1: Northeast"	"CENS-R1"	"New Hampshire"	"33"	"Male"	"M"	"25-34 years"	"25-34"	968	541659	178.7
+	"Census Region 1: Northeast"	"CENS-R1"	"New Hampshire"	"33"	"Male"	"M"	"35-44 years"	"35-44"	1153	567118	203.3
+	"Census Region 1: Northeast"	"CENS-R1"	"New Hampshire"	"33"	"Male"	"M"	"45-54 years"	"45-54"	2975	741356	401.3
+	"Census Region 1: Northeast"	"CENS-R1"	"New Hampshire"	"33"	"Male"	"M"	"55-64 years"	"55-64"	5796	667588	868.2
+	"Census Region 1: Northeast"	"CENS-R1"	"New Hampshire"	"33"	"Male"	"M"	"65-74 years"	"65-74"	7600	393891	1929.5
+	"Census Region 1: Northeast"	"CENS-R1"	"New Hampshire"	"33"	"Male"	"M"	"75-84 years"	"75-84"	9865	181067	5448.3
+	"Census Region 1: Northeast"	"CENS-R1"	"New Hampshire"	"33"	"Male"	"M"	"85+ years"	"85+"	10022	63897	15684.6
+	"Census Region 1: Northeast"	"CENS-R1"	"Rhode Island"	"44"	"Female"	"F"	"< 1 year"	"1"	214	37304	573.7
+	"Census Region 1: Northeast"	"CENS-R1"	"Rhode Island"	"44"	"Female"	"F"	"1-4 years"	"1-4"	19	152274	12.5 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"Rhode Island"	"44"	"Female"	"F"	"5-9 years"	"5-9"	14	199742	7.0 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"Rhode Island"	"44"	"Female"	"F"	"10-14 years"	"10-14"	20	209936	9.5
+	"Census Region 1: Northeast"	"CENS-R1"	"Rhode Island"	"44"	"Female"	"F"	"15-19 years"	"15-19"	47	265773	17.7
+	"Census Region 1: Northeast"	"CENS-R1"	"Rhode Island"	"44"	"Female"	"F"	"20-24 years"	"20-24"	72	283426	25.4
+	"Census Region 1: Northeast"	"CENS-R1"	"Rhode Island"	"44"	"Female"	"F"	"25-34 years"	"25-34"	284	470445	60.4
+	"Census Region 1: Northeast"	"CENS-R1"	"Rhode Island"	"44"	"Female"	"F"	"35-44 years"	"35-44"	487	457073	106.5
+	"Census Region 1: Northeast"	"CENS-R1"	"Rhode Island"	"44"	"Female"	"F"	"45-54 years"	"45-54"	1465	560877	261.2
+	"Census Region 1: Northeast"	"CENS-R1"	"Rhode Island"	"44"	"Female"	"F"	"55-64 years"	"55-64"	2953	508791	580.4
+	"Census Region 1: Northeast"	"CENS-R1"	"Rhode Island"	"44"	"Female"	"F"	"65-74 years"	"65-74"	4352	320442	1358.1
+	"Census Region 1: Northeast"	"CENS-R1"	"Rhode Island"	"44"	"Female"	"F"	"75-84 years"	"75-84"	7999	203491	3930.9
+	"Census Region 1: Northeast"	"CENS-R1"	"Rhode Island"	"44"	"Female"	"F"	"85+ years"	"85+"	17582	134369	13084.9
+	"Census Region 1: Northeast"	"CENS-R1"	"Rhode Island"	"44"	"Male"	"M"	"< 1 year"	"1"	248	39010	635.7
+	"Census Region 1: Northeast"	"CENS-R1"	"Rhode Island"	"44"	"Male"	"M"	"1-4 years"	"1-4"	31	160196	19.4
+	"Census Region 1: Northeast"	"CENS-R1"	"Rhode Island"	"44"	"Male"	"M"	"5-9 years"	"5-9"	23	209360	11.0
+	"Census Region 1: Northeast"	"CENS-R1"	"Rhode Island"	"44"	"Male"	"M"	"10-14 years"	"10-14"	27	220790	12.2
+	"Census Region 1: Northeast"	"CENS-R1"	"Rhode Island"	"44"	"Male"	"M"	"15-19 years"	"15-19"	94	265098	35.5
+	"Census Region 1: Northeast"	"CENS-R1"	"Rhode Island"	"44"	"Male"	"M"	"20-24 years"	"20-24"	263	288981	91.0
+	"Census Region 1: Northeast"	"CENS-R1"	"Rhode Island"	"44"	"Male"	"M"	"25-34 years"	"25-34"	665	477519	139.3
+	"Census Region 1: Northeast"	"CENS-R1"	"Rhode Island"	"44"	"Male"	"M"	"35-44 years"	"35-44"	930	439732	211.5
+	"Census Region 1: Northeast"	"CENS-R1"	"Rhode Island"	"44"	"Male"	"M"	"45-54 years"	"45-54"	2464	524434	469.8
+	"Census Region 1: Northeast"	"CENS-R1"	"Rhode Island"	"44"	"Male"	"M"	"55-64 years"	"55-64"	4634	468909	988.3
+	"Census Region 1: Northeast"	"CENS-R1"	"Rhode Island"	"44"	"Male"	"M"	"65-74 years"	"65-74"	5670	278327	2037.2
+	"Census Region 1: Northeast"	"CENS-R1"	"Rhode Island"	"44"	"Male"	"M"	"75-84 years"	"75-84"	7818	140241	5574.7
+	"Census Region 1: Northeast"	"CENS-R1"	"Rhode Island"	"44"	"Male"	"M"	"85+ years"	"85+"	9597	60925	15752.2
+	"Census Region 1: Northeast"	"CENS-R1"	"Vermont"	"50"	"Female"	"F"	"< 1 year"	"1"	69	20353	339.0
+	"Census Region 1: Northeast"	"CENS-R1"	"Vermont"	"50"	"Female"	"F"	"1-4 years"	"1-4"	10	84685	11.8 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"Vermont"	"50"	"Female"	"F"	"10-14 years"	"10-14"	12	121681	9.9 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"Vermont"	"50"	"Female"	"F"	"15-19 years"	"15-19"	30	152185	19.7
+	"Census Region 1: Northeast"	"CENS-R1"	"Vermont"	"50"	"Female"	"F"	"20-24 years"	"20-24"	72	153830	46.8
+	"Census Region 1: Northeast"	"CENS-R1"	"Vermont"	"50"	"Female"	"F"	"25-34 years"	"25-34"	156	249141	62.6
+	"Census Region 1: Northeast"	"CENS-R1"	"Vermont"	"50"	"Female"	"F"	"35-44 years"	"35-44"	292	259168	112.7
+	"Census Region 1: Northeast"	"CENS-R1"	"Vermont"	"50"	"Female"	"F"	"45-54 years"	"45-54"	835	337818	247.2
+	"Census Region 1: Northeast"	"CENS-R1"	"Vermont"	"50"	"Female"	"F"	"55-64 years"	"55-64"	1804	336792	535.6
+	"Census Region 1: Northeast"	"CENS-R1"	"Vermont"	"50"	"Female"	"F"	"65-74 years"	"65-74"	2813	212043	1326.6
+	"Census Region 1: Northeast"	"CENS-R1"	"Vermont"	"50"	"Female"	"F"	"75-84 years"	"75-84"	4724	115964	4073.7
+	"Census Region 1: Northeast"	"CENS-R1"	"Vermont"	"50"	"Female"	"F"	"85+ years"	"85+"	8982	64189	13993.1
+	"Census Region 1: Northeast"	"CENS-R1"	"Vermont"	"50"	"Male"	"M"	"< 1 year"	"1"	113	22004	513.5
+	"Census Region 1: Northeast"	"CENS-R1"	"Vermont"	"50"	"Male"	"M"	"1-4 years"	"1-4"	25	90318	27.7
+	"Census Region 1: Northeast"	"CENS-R1"	"Vermont"	"50"	"Male"	"M"	"5-9 years"	"5-9"	13	120229	10.8 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"Vermont"	"50"	"Male"	"M"	"10-14 years"	"10-14"	21	128912	16.3
+	"Census Region 1: Northeast"	"CENS-R1"	"Vermont"	"50"	"Male"	"M"	"15-19 years"	"15-19"	92	160009	57.5
+	"Census Region 1: Northeast"	"CENS-R1"	"Vermont"	"50"	"Male"	"M"	"20-24 years"	"20-24"	176	165727	106.2
+	"Census Region 1: Northeast"	"CENS-R1"	"Vermont"	"50"	"Male"	"M"	"25-34 years"	"25-34"	373	250956	148.6
+	"Census Region 1: Northeast"	"CENS-R1"	"Vermont"	"50"	"Male"	"M"	"35-44 years"	"35-44"	496	252889	196.1
+	"Census Region 1: Northeast"	"CENS-R1"	"Vermont"	"50"	"Male"	"M"	"45-54 years"	"45-54"	1370	322948	424.2
+	"Census Region 1: Northeast"	"CENS-R1"	"Vermont"	"50"	"Male"	"M"	"55-64 years"	"55-64"	2847	325594	874.4
+	"Census Region 1: Northeast"	"CENS-R1"	"Vermont"	"50"	"Male"	"M"	"65-74 years"	"65-74"	3963	200178	1979.7
+	"Census Region 1: Northeast"	"CENS-R1"	"Vermont"	"50"	"Male"	"M"	"75-84 years"	"75-84"	5002	90885	5503.7
+	"Census Region 1: Northeast"	"CENS-R1"	"Vermont"	"50"	"Male"	"M"	"85+ years"	"85+"	5098	31830	16016.3
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Female"	"F"	"< 1 year"	"1"	1487	356544	417.1
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Female"	"F"	"1-4 years"	"1-4"	245	1466651	16.7
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Female"	"F"	"5-9 years"	"5-9"	167	1904277	8.8
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Female"	"F"	"10-14 years"	"10-14"	187	1974453	9.5
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Female"	"F"	"15-19 years"	"15-19"	379	1981863	19.1
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Female"	"F"	"20-24 years"	"20-24"	829	1907969	43.4
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Female"	"F"	"25-34 years"	"25-34"	2277	3963824	57.4
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Female"	"F"	"35-44 years"	"35-44"	4382	4211682	104.0
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Female"	"F"	"45-54 years"	"45-54"	12138	4825782	251.5
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Female"	"F"	"55-64 years"	"55-64"	22655	4109231	551.3
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Female"	"F"	"65-74 years"	"65-74"	35329	2650836	1332.7
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Female"	"F"	"75-84 years"	"75-84"	61526	1617421	3804.0
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Female"	"F"	"85+ years"	"85+"	115725	901033	12843.6
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Male"	"M"	"< 1 year"	"1"	1846	372593	495.4
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Male"	"M"	"1-4 years"	"1-4"	323	1528805	21.1
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Male"	"M"	"5-9 years"	"5-9"	180	1983332	9.1
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Male"	"M"	"10-14 years"	"10-14"	234	2060255	11.4
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Male"	"M"	"15-19 years"	"15-19"	1028	2107092	48.8
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Male"	"M"	"20-24 years"	"20-24"	2522	2029216	124.3
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Male"	"M"	"25-34 years"	"25-34"	5695	4010870	142.0
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Male"	"M"	"35-44 years"	"35-44"	7336	4088505	179.4
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Male"	"M"	"45-54 years"	"45-54"	18882	4591987	411.2
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Male"	"M"	"55-64 years"	"55-64"	34178	3778069	904.6
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Male"	"M"	"65-74 years"	"65-74"	43919	2222361	1976.2
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Male"	"M"	"75-84 years"	"75-84"	60241	1131728	5322.9
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Male"	"M"	"85+ years"	"85+"	64999	434022	14976.0
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Male"	"M"	"Not Stated"	"NS"	18	Not Applicable	Not Applicable
+	"Census Region 1: Northeast"	"CENS-R1"	"New York"	"36"	"Female"	"F"	"< 1 year"	"1"	3660	809308	452.2
+	"Census Region 1: Northeast"	"CENS-R1"	"New York"	"36"	"Female"	"F"	"1-4 years"	"1-4"	586	3190262	18.4
+	"Census Region 1: Northeast"	"CENS-R1"	"New York"	"36"	"Female"	"F"	"5-9 years"	"5-9"	340	3940459	8.6
+	"Census Region 1: Northeast"	"CENS-R1"	"New York"	"36"	"Female"	"F"	"10-14 years"	"10-14"	391	4044611	9.7
+	"Census Region 1: Northeast"	"CENS-R1"	"New York"	"36"	"Female"	"F"	"15-19 years"	"15-19"	874	4432689	19.7
+	"Census Region 1: Northeast"	"CENS-R1"	"New York"	"36"	"Female"	"F"	"20-24 years"	"20-24"	1706	4965196	34.4
+	"Census Region 1: Northeast"	"CENS-R1"	"New York"	"36"	"Female"	"F"	"25-34 years"	"25-34"	4746	9849460	48.2
+	"Census Region 1: Northeast"	"CENS-R1"	"New York"	"36"	"Female"	"F"	"35-44 years"	"35-44"	9008	9014904	99.9
+	"Census Region 1: Northeast"	"CENS-R1"	"New York"	"36"	"Female"	"F"	"45-54 years"	"45-54"	25381	10103976	251.2
+	"Census Region 1: Northeast"	"CENS-R1"	"New York"	"36"	"Female"	"F"	"55-64 years"	"55-64"	49567	8989675	551.4
+	"Census Region 1: Northeast"	"CENS-R1"	"New York"	"36"	"Female"	"F"	"65-74 years"	"65-74"	76988	5884877	1308.2
+	"Census Region 1: Northeast"	"CENS-R1"	"New York"	"36"	"Female"	"F"	"75-84 years"	"75-84"	128815	3572042	3606.2
+	"Census Region 1: Northeast"	"CENS-R1"	"New York"	"36"	"Female"	"F"	"85+ years"	"85+"	239393	1974941	12121.5
+	"Census Region 1: Northeast"	"CENS-R1"	"New York"	"36"	"Female"	"F"	"Not Stated"	"NS"	60	Not Applicable	Not Applicable
+	"Census Region 1: Northeast"	"CENS-R1"	"New York"	"36"	"Male"	"M"	"< 1 year"	"1"	4427	845730	523.5
+	"Census Region 1: Northeast"	"CENS-R1"	"New York"	"36"	"Male"	"M"	"1-4 years"	"1-4"	679	3338011	20.3
+	"Census Region 1: Northeast"	"CENS-R1"	"New York"	"36"	"Male"	"M"	"5-9 years"	"5-9"	470	4120928	11.4
+	"Census Region 1: Northeast"	"CENS-R1"	"New York"	"36"	"Male"	"M"	"10-14 years"	"10-14"	594	4224766	14.1
+	"Census Region 1: Northeast"	"CENS-R1"	"New York"	"36"	"Male"	"M"	"15-19 years"	"15-19"	2169	4613917	47.0
+	"Census Region 1: Northeast"	"CENS-R1"	"New York"	"36"	"Male"	"M"	"20-24 years"	"20-24"	5060	5041076	100.4
+	"Census Region 1: Northeast"	"CENS-R1"	"New York"	"36"	"Male"	"M"	"25-34 years"	"25-34"	11231	9700786	115.8
+	"Census Region 1: Northeast"	"CENS-R1"	"New York"	"36"	"Male"	"M"	"35-44 years"	"35-44"	15263	8670158	176.0
+	"Census Region 1: Northeast"	"CENS-R1"	"New York"	"36"	"Male"	"M"	"45-54 years"	"45-54"	39684	9542056	415.9
+	"Census Region 1: Northeast"	"CENS-R1"	"New York"	"36"	"Male"	"M"	"55-64 years"	"55-64"	75571	8184410	923.4
+	"Census Region 1: Northeast"	"CENS-R1"	"New York"	"36"	"Male"	"M"	"65-74 years"	"65-74"	96099	4874817	1971.3
+	"Census Region 1: Northeast"	"CENS-R1"	"New York"	"36"	"Male"	"M"	"75-84 years"	"75-84"	126489	2502469	5054.6
+	"Census Region 1: Northeast"	"CENS-R1"	"New York"	"36"	"Male"	"M"	"85+ years"	"85+"	134091	953409	14064.4
+	"Census Region 1: Northeast"	"CENS-R1"	"New York"	"36"	"Male"	"M"	"Not Stated"	"NS"	104	Not Applicable	Not Applicable
+	"Census Region 1: Northeast"	"CENS-R1"	"Pennsylvania"	"42"	"Female"	"F"	"< 1 year"	"1"	2904	483856	600.2
+	"Census Region 1: Northeast"	"CENS-R1"	"Pennsylvania"	"42"	"Female"	"F"	"1-4 years"	"1-4"	390	1975783	19.7
+	"Census Region 1: Northeast"	"CENS-R1"	"Pennsylvania"	"42"	"Female"	"F"	"5-9 years"	"5-9"	229	2546555	9.0
+	"Census Region 1: Northeast"	"CENS-R1"	"Pennsylvania"	"42"	"Female"	"F"	"10-14 years"	"10-14"	258	2642119	9.8
+	"Census Region 1: Northeast"	"CENS-R1"	"Pennsylvania"	"42"	"Female"	"F"	"15-19 years"	"15-19"	741	2934950	25.2
+	"Census Region 1: Northeast"	"CENS-R1"	"Pennsylvania"	"42"	"Female"	"F"	"20-24 years"	"20-24"	1508	3004197	50.2
+	"Census Region 1: Northeast"	"CENS-R1"	"Pennsylvania"	"42"	"Female"	"F"	"25-34 years"	"25-34"	4390	5567216	78.9
+	"Census Region 1: Northeast"	"CENS-R1"	"Pennsylvania"	"42"	"Female"	"F"	"35-44 years"	"35-44"	7494	5404830	138.7
+	"Census Region 1: Northeast"	"CENS-R1"	"Pennsylvania"	"42"	"Female"	"F"	"45-54 years"	"45-54"	20427	6538347	312.4
+	"Census Region 1: Northeast"	"CENS-R1"	"Pennsylvania"	"42"	"Female"	"F"	"55-64 years"	"55-64"	40091	6232633	643.2
+	"Census Region 1: Northeast"	"CENS-R1"	"Pennsylvania"	"42"	"Female"	"F"	"65-74 years"	"65-74"	63418	4141048	1531.4
+	"Census Region 1: Northeast"	"CENS-R1"	"Pennsylvania"	"42"	"Female"	"F"	"75-84 years"	"75-84"	112503	2685820	4188.8
+	"Census Region 1: Northeast"	"CENS-R1"	"Pennsylvania"	"42"	"Female"	"F"	"85+ years"	"85+"	207191	1535817	13490.6
+	"Census Region 1: Northeast"	"CENS-R1"	"Pennsylvania"	"42"	"Female"	"F"	"Not Stated"	"NS"	41	Not Applicable	Not Applicable
+	"Census Region 1: Northeast"	"CENS-R1"	"Pennsylvania"	"42"	"Male"	"M"	"< 1 year"	"1"	3556	507331	700.9
+	"Census Region 1: Northeast"	"CENS-R1"	"Pennsylvania"	"42"	"Male"	"M"	"1-4 years"	"1-4"	541	2066840	26.2
+	"Census Region 1: Northeast"	"CENS-R1"	"Pennsylvania"	"42"	"Male"	"M"	"5-9 years"	"5-9"	332	2661210	12.5
+	"Census Region 1: Northeast"	"CENS-R1"	"Pennsylvania"	"42"	"Male"	"M"	"10-14 years"	"10-14"	424	2766499	15.3
+	"Census Region 1: Northeast"	"CENS-R1"	"Pennsylvania"	"42"	"Male"	"M"	"15-19 years"	"15-19"	2103	3059881	68.7
+	"Census Region 1: Northeast"	"CENS-R1"	"Pennsylvania"	"42"	"Male"	"M"	"20-24 years"	"20-24"	4751	3108506	152.8
+	"Census Region 1: Northeast"	"CENS-R1"	"Pennsylvania"	"42"	"Male"	"M"	"25-34 years"	"25-34"	10219	5680089	179.9
+	"Census Region 1: Northeast"	"CENS-R1"	"Pennsylvania"	"42"	"Male"	"M"	"35-44 years"	"35-44"	12768	5349257	238.7
+	"Census Region 1: Northeast"	"CENS-R1"	"Pennsylvania"	"42"	"Male"	"M"	"45-54 years"	"45-54"	32337	6338553	510.2
+	"Census Region 1: Northeast"	"CENS-R1"	"Pennsylvania"	"42"	"Male"	"M"	"55-64 years"	"55-64"	63434	5891843	1076.6
+	"Census Region 1: Northeast"	"CENS-R1"	"Pennsylvania"	"42"	"Male"	"M"	"65-74 years"	"65-74"	82511	3596880	2294.0
+	"Census Region 1: Northeast"	"CENS-R1"	"Pennsylvania"	"42"	"Male"	"M"	"75-84 years"	"75-84"	111602	1913352	5832.8
+	"Census Region 1: Northeast"	"CENS-R1"	"Pennsylvania"	"42"	"Male"	"M"	"85+ years"	"85+"	116787	733148	15929.5
+	"Census Region 1: Northeast"	"CENS-R1"	"Pennsylvania"	"42"	"Male"	"M"	"Not Stated"	"NS"	59	Not Applicable	Not Applicable
+	"Census Region 2: Midwest"	"CENS-R2"	"Illinois"	"17"	"Female"	"F"	"< 1 year"	"1"	3195	539022	592.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Illinois"	"17"	"Female"	"F"	"1-4 years"	"1-4"	428	2209087	19.4
+	"Census Region 2: Midwest"	"CENS-R2"	"Illinois"	"17"	"Female"	"F"	"5-9 years"	"5-9"	289	2869547	10.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Illinois"	"17"	"Female"	"F"	"10-14 years"	"10-14"	318	2938752	10.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Illinois"	"17"	"Female"	"F"	"15-19 years"	"15-19"	826	2996113	27.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Illinois"	"17"	"Female"	"F"	"20-24 years"	"20-24"	1282	3074424	41.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Illinois"	"17"	"Female"	"F"	"25-34 years"	"25-34"	3579	6198173	57.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Illinois"	"17"	"Female"	"F"	"35-44 years"	"35-44"	6596	5913097	111.5
+	"Census Region 2: Midwest"	"CENS-R2"	"Illinois"	"17"	"Female"	"F"	"45-54 years"	"45-54"	18304	6370055	287.3
+	"Census Region 2: Midwest"	"CENS-R2"	"Illinois"	"17"	"Female"	"F"	"55-64 years"	"55-64"	35984	5721093	629.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Illinois"	"17"	"Female"	"F"	"65-74 years"	"65-74"	54280	3616395	1500.9
+	"Census Region 2: Midwest"	"CENS-R2"	"Illinois"	"17"	"Female"	"F"	"75-84 years"	"75-84"	88512	2158202	4101.2
+	"Census Region 2: Midwest"	"CENS-R2"	"Illinois"	"17"	"Female"	"F"	"85+ years"	"85+"	154577	1185426	13039.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Illinois"	"17"	"Male"	"M"	"< 1 year"	"1"	3926	563921	696.2
+	"Census Region 2: Midwest"	"CENS-R2"	"Illinois"	"17"	"Male"	"M"	"1-4 years"	"1-4"	590	2302154	25.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Illinois"	"17"	"Male"	"M"	"5-9 years"	"5-9"	345	2985423	11.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Illinois"	"17"	"Male"	"M"	"10-14 years"	"10-14"	488	3064049	15.9
+	"Census Region 2: Midwest"	"CENS-R2"	"Illinois"	"17"	"Male"	"M"	"15-19 years"	"15-19"	2382	3150356	75.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Illinois"	"17"	"Male"	"M"	"20-24 years"	"20-24"	4255	3191204	133.3
+	"Census Region 2: Midwest"	"CENS-R2"	"Illinois"	"17"	"Male"	"M"	"25-34 years"	"25-34"	8878	6271968	141.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Illinois"	"17"	"Male"	"M"	"35-44 years"	"35-44"	11616	5877107	197.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Illinois"	"17"	"Male"	"M"	"45-54 years"	"45-54"	28492	6189356	460.3
+	"Census Region 2: Midwest"	"CENS-R2"	"Illinois"	"17"	"Male"	"M"	"55-64 years"	"55-64"	55797	5351700	1042.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Illinois"	"17"	"Male"	"M"	"65-74 years"	"65-74"	68855	3107217	2216.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Illinois"	"17"	"Male"	"M"	"75-84 years"	"75-84"	86927	1541364	5639.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Illinois"	"17"	"Male"	"M"	"85+ years"	"85+"	86095	563872	15268.5
+	"Census Region 2: Midwest"	"CENS-R2"	"Illinois"	"17"	"Male"	"M"	"Not Stated"	"NS"	34	Not Applicable	Not Applicable
+	"Census Region 2: Midwest"	"CENS-R2"	"Indiana"	"18"	"Female"	"F"	"< 1 year"	"1"	1860	285231	652.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Indiana"	"18"	"Female"	"F"	"1-4 years"	"1-4"	309	1165847	26.5
+	"Census Region 2: Midwest"	"CENS-R2"	"Indiana"	"18"	"Female"	"F"	"5-9 years"	"5-9"	181	1507527	12.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Indiana"	"18"	"Female"	"F"	"10-14 years"	"10-14"	186	1538304	12.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Indiana"	"18"	"Female"	"F"	"15-19 years"	"15-19"	518	1574316	32.9
+	"Census Region 2: Midwest"	"CENS-R2"	"Indiana"	"18"	"Female"	"F"	"20-24 years"	"20-24"	825	1638459	50.4
+	"Census Region 2: Midwest"	"CENS-R2"	"Indiana"	"18"	"Female"	"F"	"25-34 years"	"25-34"	2517	2936418	85.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Indiana"	"18"	"Female"	"F"	"35-44 years"	"35-44"	4435	2886963	153.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Indiana"	"18"	"Female"	"F"	"45-54 years"	"45-54"	11666	3194525	365.2
+	"Census Region 2: Midwest"	"CENS-R2"	"Indiana"	"18"	"Female"	"F"	"55-64 years"	"55-64"	22028	2960935	744.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Indiana"	"18"	"Female"	"F"	"65-74 years"	"65-74"	33300	1916154	1737.9
+	"Census Region 2: Midwest"	"CENS-R2"	"Indiana"	"18"	"Female"	"F"	"75-84 years"	"75-84"	51651	1128797	4575.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Indiana"	"18"	"Female"	"F"	"85+ years"	"85+"	81659	584716	13965.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Indiana"	"18"	"Male"	"M"	"< 1 year"	"1"	2407	299384	804.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Indiana"	"18"	"Male"	"M"	"1-4 years"	"1-4"	354	1221240	29.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Indiana"	"18"	"Male"	"M"	"5-9 years"	"5-9"	236	1577239	15.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Indiana"	"18"	"Male"	"M"	"10-14 years"	"10-14"	303	1608601	18.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Indiana"	"18"	"Male"	"M"	"15-19 years"	"15-19"	1316	1655172	79.5
+	"Census Region 2: Midwest"	"CENS-R2"	"Indiana"	"18"	"Male"	"M"	"20-24 years"	"20-24"	2350	1693291	138.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Indiana"	"18"	"Male"	"M"	"25-34 years"	"25-34"	5493	2960851	185.5
+	"Census Region 2: Midwest"	"CENS-R2"	"Indiana"	"18"	"Male"	"M"	"35-44 years"	"35-44"	7336	2891890	253.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Indiana"	"18"	"Male"	"M"	"45-54 years"	"45-54"	17824	3140477	567.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Indiana"	"18"	"Male"	"M"	"55-64 years"	"55-64"	34205	2811134	1216.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Indiana"	"18"	"Male"	"M"	"65-74 years"	"65-74"	42431	1678677	2527.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Indiana"	"18"	"Male"	"M"	"75-84 years"	"75-84"	51132	814516	6277.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Indiana"	"18"	"Male"	"M"	"85+ years"	"85+"	45590	277517	16427.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Michigan"	"26"	"Female"	"F"	"< 1 year"	"1"	2369	388067	610.5
+	"Census Region 2: Midwest"	"CENS-R2"	"Michigan"	"26"	"Female"	"F"	"1-4 years"	"1-4"	360	1591635	22.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Michigan"	"26"	"Female"	"F"	"5-9 years"	"5-9"	200	2097129	9.5
+	"Census Region 2: Midwest"	"CENS-R2"	"Michigan"	"26"	"Female"	"F"	"10-14 years"	"10-14"	318	2227446	14.3
+	"Census Region 2: Midwest"	"CENS-R2"	"Michigan"	"26"	"Female"	"F"	"15-19 years"	"15-19"	701	2367953	29.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Michigan"	"26"	"Female"	"F"	"20-24 years"	"20-24"	1289	2444919	52.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Michigan"	"26"	"Female"	"F"	"25-34 years"	"25-34"	3405	4171689	81.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Michigan"	"26"	"Female"	"F"	"35-44 years"	"35-44"	6362	4267854	149.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Michigan"	"26"	"Female"	"F"	"45-54 years"	"45-54"	17393	5054561	344.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Michigan"	"26"	"Female"	"F"	"55-64 years"	"55-64"	33758	4820536	700.3
+	"Census Region 2: Midwest"	"CENS-R2"	"Michigan"	"26"	"Female"	"F"	"65-74 years"	"65-74"	49152	3077897	1596.9
+	"Census Region 2: Midwest"	"CENS-R2"	"Michigan"	"26"	"Female"	"F"	"75-84 years"	"75-84"	77590	1797239	4317.2
+	"Census Region 2: Midwest"	"CENS-R2"	"Michigan"	"26"	"Female"	"F"	"85+ years"	"85+"	130595	956480	13653.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Michigan"	"26"	"Male"	"M"	"< 1 year"	"1"	2997	407971	734.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Michigan"	"26"	"Male"	"M"	"1-4 years"	"1-4"	465	1670136	27.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Michigan"	"26"	"Male"	"M"	"5-9 years"	"5-9"	282	2193778	12.9
+	"Census Region 2: Midwest"	"CENS-R2"	"Michigan"	"26"	"Male"	"M"	"10-14 years"	"10-14"	408	2329354	17.5
+	"Census Region 2: Midwest"	"CENS-R2"	"Michigan"	"26"	"Male"	"M"	"15-19 years"	"15-19"	1793	2489879	72.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Michigan"	"26"	"Male"	"M"	"20-24 years"	"20-24"	3473	2538365	136.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Michigan"	"26"	"Male"	"M"	"25-34 years"	"25-34"	7457	4202004	177.5
+	"Census Region 2: Midwest"	"CENS-R2"	"Michigan"	"26"	"Male"	"M"	"35-44 years"	"35-44"	10531	4188155	251.4
+	"Census Region 2: Midwest"	"CENS-R2"	"Michigan"	"26"	"Male"	"M"	"45-54 years"	"45-54"	25891	4919571	526.3
+	"Census Region 2: Midwest"	"CENS-R2"	"Michigan"	"26"	"Male"	"M"	"55-64 years"	"55-64"	51457	4546752	1131.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Michigan"	"26"	"Male"	"M"	"65-74 years"	"65-74"	63219	2747087	2301.3
+	"Census Region 2: Midwest"	"CENS-R2"	"Michigan"	"26"	"Male"	"M"	"75-84 years"	"75-84"	77386	1331856	5810.4
+	"Census Region 2: Midwest"	"CENS-R2"	"Michigan"	"26"	"Male"	"M"	"85+ years"	"85+"	76270	479542	15904.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Ohio"	"39"	"Female"	"F"	"< 1 year"	"1"	3190	472842	674.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Ohio"	"39"	"Female"	"F"	"1-4 years"	"1-4"	472	1930335	24.5
+	"Census Region 2: Midwest"	"CENS-R2"	"Ohio"	"39"	"Female"	"F"	"5-9 years"	"5-9"	249	2503936	9.9
+	"Census Region 2: Midwest"	"CENS-R2"	"Ohio"	"39"	"Female"	"F"	"10-14 years"	"10-14"	327	2595631	12.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Ohio"	"39"	"Female"	"F"	"15-19 years"	"15-19"	779	2686884	29.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Ohio"	"39"	"Female"	"F"	"20-24 years"	"20-24"	1461	2706571	54.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Ohio"	"39"	"Female"	"F"	"25-34 years"	"25-34"	4434	5094215	87.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Ohio"	"39"	"Female"	"F"	"35-44 years"	"35-44"	8011	5009946	159.9
+	"Census Region 2: Midwest"	"CENS-R2"	"Ohio"	"39"	"Female"	"F"	"45-54 years"	"45-54"	21318	5829055	365.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Ohio"	"39"	"Female"	"F"	"55-64 years"	"55-64"	41448	5579084	742.9
+	"Census Region 2: Midwest"	"CENS-R2"	"Ohio"	"39"	"Female"	"F"	"65-74 years"	"65-74"	61646	3612261	1706.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Ohio"	"39"	"Female"	"F"	"75-84 years"	"75-84"	100085	2210296	4528.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Ohio"	"39"	"Female"	"F"	"85+ years"	"85+"	161795	1152608	14037.3
+	"Census Region 2: Midwest"	"CENS-R2"	"Ohio"	"39"	"Male"	"M"	"< 1 year"	"1"	4010	494972	810.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Ohio"	"39"	"Male"	"M"	"1-4 years"	"1-4"	644	2018121	31.9
+	"Census Region 2: Midwest"	"CENS-R2"	"Ohio"	"39"	"Male"	"M"	"5-9 years"	"5-9"	333	2611430	12.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Ohio"	"39"	"Male"	"M"	"10-14 years"	"10-14"	429	2714193	15.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Ohio"	"39"	"Male"	"M"	"15-19 years"	"15-19"	1771	2819116	62.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Ohio"	"39"	"Male"	"M"	"20-24 years"	"20-24"	3792	2774633	136.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Ohio"	"39"	"Male"	"M"	"25-34 years"	"25-34"	9518	5096975	186.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Ohio"	"39"	"Male"	"M"	"35-44 years"	"35-44"	13167	4938551	266.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Ohio"	"39"	"Male"	"M"	"45-54 years"	"45-54"	32087	5644391	568.5
+	"Census Region 2: Midwest"	"CENS-R2"	"Ohio"	"39"	"Male"	"M"	"55-64 years"	"55-64"	62469	5244103	1191.2
+	"Census Region 2: Midwest"	"CENS-R2"	"Ohio"	"39"	"Male"	"M"	"65-74 years"	"65-74"	77100	3129078	2464.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Ohio"	"39"	"Male"	"M"	"75-84 years"	"75-84"	96825	1585391	6107.3
+	"Census Region 2: Midwest"	"CENS-R2"	"Ohio"	"39"	"Male"	"M"	"85+ years"	"85+"	90802	561442	16173.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Wisconsin"	"55"	"Female"	"F"	"< 1 year"	"1"	1272	229726	553.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Wisconsin"	"55"	"Female"	"F"	"1-4 years"	"1-4"	197	953540	20.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Wisconsin"	"55"	"Female"	"F"	"5-9 years"	"5-9"	104	1247140	8.3
+	"Census Region 2: Midwest"	"CENS-R2"	"Wisconsin"	"55"	"Female"	"F"	"10-14 years"	"10-14"	130	1273084	10.2
+	"Census Region 2: Midwest"	"CENS-R2"	"Wisconsin"	"55"	"Female"	"F"	"15-19 years"	"15-19"	396	1328656	29.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Wisconsin"	"55"	"Female"	"F"	"20-24 years"	"20-24"	593	1370487	43.3
+	"Census Region 2: Midwest"	"CENS-R2"	"Wisconsin"	"55"	"Female"	"F"	"25-34 years"	"25-34"	1598	2502355	63.9
+	"Census Region 2: Midwest"	"CENS-R2"	"Wisconsin"	"55"	"Female"	"F"	"35-44 years"	"35-44"	2806	2416315	116.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Wisconsin"	"55"	"Female"	"F"	"45-54 years"	"45-54"	7884	2908203	271.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Wisconsin"	"55"	"Female"	"F"	"55-64 years"	"55-64"	15300	2677754	571.4
+	"Census Region 2: Midwest"	"CENS-R2"	"Wisconsin"	"55"	"Female"	"F"	"65-74 years"	"65-74"	23751	1684718	1409.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Wisconsin"	"55"	"Female"	"F"	"75-84 years"	"75-84"	41177	1039343	3961.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Wisconsin"	"55"	"Female"	"F"	"85+ years"	"85+"	80176	584915	13707.3
+	"Census Region 2: Midwest"	"CENS-R2"	"Wisconsin"	"55"	"Male"	"M"	"< 1 year"	"1"	1547	241106	641.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Wisconsin"	"55"	"Male"	"M"	"1-4 years"	"1-4"	232	998536	23.2
+	"Census Region 2: Midwest"	"CENS-R2"	"Wisconsin"	"55"	"Male"	"M"	"5-9 years"	"5-9"	163	1305246	12.5
+	"Census Region 2: Midwest"	"CENS-R2"	"Wisconsin"	"55"	"Male"	"M"	"10-14 years"	"10-14"	233	1330688	17.5
+	"Census Region 2: Midwest"	"CENS-R2"	"Wisconsin"	"55"	"Male"	"M"	"15-19 years"	"15-19"	847	1390458	60.9
+	"Census Region 2: Midwest"	"CENS-R2"	"Wisconsin"	"55"	"Male"	"M"	"20-24 years"	"20-24"	1653	1424064	116.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Wisconsin"	"55"	"Male"	"M"	"25-34 years"	"25-34"	3656	2597670	140.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Wisconsin"	"55"	"Male"	"M"	"35-44 years"	"35-44"	4727	2472110	191.2
+	"Census Region 2: Midwest"	"CENS-R2"	"Wisconsin"	"55"	"Male"	"M"	"45-54 years"	"45-54"	12221	2904738	420.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Wisconsin"	"55"	"Male"	"M"	"55-64 years"	"55-64"	24553	2646932	927.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Wisconsin"	"55"	"Male"	"M"	"65-74 years"	"65-74"	31688	1555791	2036.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Wisconsin"	"55"	"Male"	"M"	"75-84 years"	"75-84"	43773	796541	5495.4
+	"Census Region 2: Midwest"	"CENS-R2"	"Wisconsin"	"55"	"Male"	"M"	"85+ years"	"85+"	46821	290517	16116.4
+	"Census Region 2: Midwest"	"CENS-R2"	"Iowa"	"19"	"Female"	"F"	"< 1 year"	"1"	594	133769	444.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Iowa"	"19"	"Female"	"F"	"1-4 years"	"1-4"	125	545105	22.9
+	"Census Region 2: Midwest"	"CENS-R2"	"Iowa"	"19"	"Female"	"F"	"5-9 years"	"5-9"	56	696732	8.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Iowa"	"19"	"Female"	"F"	"10-14 years"	"10-14"	89	691085	12.9
+	"Census Region 2: Midwest"	"CENS-R2"	"Iowa"	"19"	"Female"	"F"	"15-19 years"	"15-19"	200	731834	27.3
+	"Census Region 2: Midwest"	"CENS-R2"	"Iowa"	"19"	"Female"	"F"	"20-24 years"	"20-24"	277	764765	36.2
+	"Census Region 2: Midwest"	"CENS-R2"	"Iowa"	"19"	"Female"	"F"	"25-34 years"	"25-34"	754	1331706	56.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Iowa"	"19"	"Female"	"F"	"35-44 years"	"35-44"	1469	1254356	117.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Iowa"	"19"	"Female"	"F"	"45-54 years"	"45-54"	4248	1449326	293.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Iowa"	"19"	"Female"	"F"	"55-64 years"	"55-64"	8306	1402998	592.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Iowa"	"19"	"Female"	"F"	"65-74 years"	"65-74"	13400	919007	1458.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Iowa"	"19"	"Female"	"F"	"75-84 years"	"75-84"	24404	614192	3973.4
+	"Census Region 2: Midwest"	"CENS-R2"	"Iowa"	"19"	"Female"	"F"	"85+ years"	"85+"	48974	365250	13408.4
+	"Census Region 2: Midwest"	"CENS-R2"	"Iowa"	"19"	"Male"	"M"	"< 1 year"	"1"	740	139748	529.5
+	"Census Region 2: Midwest"	"CENS-R2"	"Iowa"	"19"	"Male"	"M"	"1-4 years"	"1-4"	160	570908	28.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Iowa"	"19"	"Male"	"M"	"5-9 years"	"5-9"	99	729884	13.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Iowa"	"19"	"Male"	"M"	"10-14 years"	"10-14"	138	725197	19.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Iowa"	"19"	"Male"	"M"	"15-19 years"	"15-19"	460	771404	59.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Iowa"	"19"	"Male"	"M"	"20-24 years"	"20-24"	755	815779	92.5
+	"Census Region 2: Midwest"	"CENS-R2"	"Iowa"	"19"	"Male"	"M"	"25-34 years"	"25-34"	1659	1398588	118.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Iowa"	"19"	"Male"	"M"	"35-44 years"	"35-44"	2502	1287717	194.3
+	"Census Region 2: Midwest"	"CENS-R2"	"Iowa"	"19"	"Male"	"M"	"45-54 years"	"45-54"	6606	1449968	455.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Iowa"	"19"	"Male"	"M"	"55-64 years"	"55-64"	13661	1387294	984.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Iowa"	"19"	"Male"	"M"	"65-74 years"	"65-74"	18103	836059	2165.3
+	"Census Region 2: Midwest"	"CENS-R2"	"Iowa"	"19"	"Male"	"M"	"75-84 years"	"75-84"	25562	455668	5609.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Iowa"	"19"	"Male"	"M"	"85+ years"	"85+"	28253	176199	16034.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Kansas"	"20"	"Female"	"F"	"< 1 year"	"1"	747	134860	553.9
+	"Census Region 2: Midwest"	"CENS-R2"	"Kansas"	"20"	"Female"	"F"	"1-4 years"	"1-4"	134	550962	24.3
+	"Census Region 2: Midwest"	"CENS-R2"	"Kansas"	"20"	"Female"	"F"	"5-9 years"	"5-9"	119	695245	17.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Kansas"	"20"	"Female"	"F"	"10-14 years"	"10-14"	83	682140	12.2
+	"Census Region 2: Midwest"	"CENS-R2"	"Kansas"	"20"	"Female"	"F"	"15-19 years"	"15-19"	226	682156	33.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Kansas"	"20"	"Female"	"F"	"20-24 years"	"20-24"	286	715317	40.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Kansas"	"20"	"Female"	"F"	"25-34 years"	"25-34"	878	1315276	66.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Kansas"	"20"	"Female"	"F"	"35-44 years"	"35-44"	1630	1194941	136.4
+	"Census Region 2: Midwest"	"CENS-R2"	"Kansas"	"20"	"Female"	"F"	"45-54 years"	"45-54"	4362	1336314	326.4
+	"Census Region 2: Midwest"	"CENS-R2"	"Kansas"	"20"	"Female"	"F"	"55-64 years"	"55-64"	8453	1266437	667.5
+	"Census Region 2: Midwest"	"CENS-R2"	"Kansas"	"20"	"Female"	"F"	"65-74 years"	"65-74"	12438	796100	1562.4
+	"Census Region 2: Midwest"	"CENS-R2"	"Kansas"	"20"	"Female"	"F"	"75-84 years"	"75-84"	21384	504719	4236.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Kansas"	"20"	"Female"	"F"	"85+ years"	"85+"	39409	289525	13611.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Kansas"	"20"	"Male"	"M"	"< 1 year"	"1"	961	141125	681.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Kansas"	"20"	"Male"	"M"	"1-4 years"	"1-4"	188	576603	32.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Kansas"	"20"	"Male"	"M"	"5-9 years"	"5-9"	96	727666	13.2
+	"Census Region 2: Midwest"	"CENS-R2"	"Kansas"	"20"	"Male"	"M"	"10-14 years"	"10-14"	134	717611	18.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Kansas"	"20"	"Male"	"M"	"15-19 years"	"15-19"	504	727718	69.3
+	"Census Region 2: Midwest"	"CENS-R2"	"Kansas"	"20"	"Male"	"M"	"20-24 years"	"20-24"	1020	779417	130.9
+	"Census Region 2: Midwest"	"CENS-R2"	"Kansas"	"20"	"Male"	"M"	"25-34 years"	"25-34"	2032	1371606	148.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Kansas"	"20"	"Male"	"M"	"35-44 years"	"35-44"	2560	1220998	209.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Kansas"	"20"	"Male"	"M"	"45-54 years"	"45-54"	6642	1319156	503.5
+	"Census Region 2: Midwest"	"CENS-R2"	"Kansas"	"20"	"Male"	"M"	"55-64 years"	"55-64"	13205	1223923	1078.9
+	"Census Region 2: Midwest"	"CENS-R2"	"Kansas"	"20"	"Male"	"M"	"65-74 years"	"65-74"	16414	719219	2282.2
+	"Census Region 2: Midwest"	"CENS-R2"	"Kansas"	"20"	"Male"	"M"	"75-84 years"	"75-84"	21622	377489	5727.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Kansas"	"20"	"Male"	"M"	"85+ years"	"85+"	23349	147551	15824.4
+	"Census Region 2: Midwest"	"CENS-R2"	"Minnesota"	"27"	"Female"	"F"	"< 1 year"	"1"	1038	236821	438.3
+	"Census Region 2: Midwest"	"CENS-R2"	"Minnesota"	"27"	"Female"	"F"	"1-4 years"	"1-4"	185	965555	19.2
+	"Census Region 2: Midwest"	"CENS-R2"	"Minnesota"	"27"	"Female"	"F"	"5-9 years"	"5-9"	126	1233758	10.2
+	"Census Region 2: Midwest"	"CENS-R2"	"Minnesota"	"27"	"Female"	"F"	"10-14 years"	"10-14"	130	1217602	10.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Minnesota"	"27"	"Female"	"F"	"15-19 years"	"15-19"	294	1233970	23.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Minnesota"	"27"	"Female"	"F"	"20-24 years"	"20-24"	423	1239917	34.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Minnesota"	"27"	"Female"	"F"	"25-34 years"	"25-34"	1258	2545714	49.4
+	"Census Region 2: Midwest"	"CENS-R2"	"Minnesota"	"27"	"Female"	"F"	"35-44 years"	"35-44"	2256	2323214	97.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Minnesota"	"27"	"Female"	"F"	"45-54 years"	"45-54"	6116	2692738	227.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Minnesota"	"27"	"Female"	"F"	"55-64 years"	"55-64"	12047	2439431	493.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Minnesota"	"27"	"Female"	"F"	"65-74 years"	"65-74"	19063	1503213	1268.2
+	"Census Region 2: Midwest"	"CENS-R2"	"Minnesota"	"27"	"Female"	"F"	"75-84 years"	"75-84"	32989	904968	3645.3
+	"Census Region 2: Midwest"	"CENS-R2"	"Minnesota"	"27"	"Female"	"F"	"85+ years"	"85+"	69388	529890	13094.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Minnesota"	"27"	"Male"	"M"	"< 1 year"	"1"	1360	248169	548.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Minnesota"	"27"	"Male"	"M"	"1-4 years"	"1-4"	217	1009397	21.5
+	"Census Region 2: Midwest"	"CENS-R2"	"Minnesota"	"27"	"Male"	"M"	"5-9 years"	"5-9"	162	1284526	12.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Minnesota"	"27"	"Male"	"M"	"10-14 years"	"10-14"	205	1274036	16.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Minnesota"	"27"	"Male"	"M"	"15-19 years"	"15-19"	713	1288113	55.4
+	"Census Region 2: Midwest"	"CENS-R2"	"Minnesota"	"27"	"Male"	"M"	"20-24 years"	"20-24"	1281	1291689	99.2
+	"Census Region 2: Midwest"	"CENS-R2"	"Minnesota"	"27"	"Male"	"M"	"25-34 years"	"25-34"	2748	2620459	104.9
+	"Census Region 2: Midwest"	"CENS-R2"	"Minnesota"	"27"	"Male"	"M"	"35-44 years"	"35-44"	3725	2378987	156.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Minnesota"	"27"	"Male"	"M"	"45-54 years"	"45-54"	9929	2696134	368.3
+	"Census Region 2: Midwest"	"CENS-R2"	"Minnesota"	"27"	"Male"	"M"	"55-64 years"	"55-64"	19596	2399712	816.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Minnesota"	"27"	"Male"	"M"	"65-74 years"	"65-74"	25180	1379526	1825.3
+	"Census Region 2: Midwest"	"CENS-R2"	"Minnesota"	"27"	"Male"	"M"	"75-84 years"	"75-84"	35599	701689	5073.3
+	"Census Region 2: Midwest"	"CENS-R2"	"Minnesota"	"27"	"Male"	"M"	"85+ years"	"85+"	41086	267561	15355.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Missouri"	"29"	"Female"	"F"	"< 1 year"	"1"	1470	255840	574.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Missouri"	"29"	"Female"	"F"	"1-4 years"	"1-4"	261	1040800	25.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Missouri"	"29"	"Female"	"F"	"5-9 years"	"5-9"	161	1333541	12.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Missouri"	"29"	"Female"	"F"	"10-14 years"	"10-14"	179	1342832	13.3
+	"Census Region 2: Midwest"	"CENS-R2"	"Missouri"	"29"	"Female"	"F"	"15-19 years"	"15-19"	496	1375198	36.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Missouri"	"29"	"Female"	"F"	"20-24 years"	"20-24"	845	1473228	57.4
+	"Census Region 2: Midwest"	"CENS-R2"	"Missouri"	"29"	"Female"	"F"	"25-34 years"	"25-34"	2316	2784486	83.2
+	"Census Region 2: Midwest"	"CENS-R2"	"Missouri"	"29"	"Female"	"F"	"35-44 years"	"35-44"	4130	2585138	159.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Missouri"	"29"	"Female"	"F"	"45-54 years"	"45-54"	10967	2973472	368.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Missouri"	"29"	"Female"	"F"	"55-64 years"	"55-64"	20961	2810326	745.9
+	"Census Region 2: Midwest"	"CENS-R2"	"Missouri"	"29"	"Female"	"F"	"65-74 years"	"65-74"	31711	1882284	1684.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Missouri"	"29"	"Female"	"F"	"75-84 years"	"75-84"	49744	1122694	4430.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Missouri"	"29"	"Female"	"F"	"85+ years"	"85+"	77573	572694	13545.3
+	"Census Region 2: Midwest"	"CENS-R2"	"Missouri"	"29"	"Male"	"M"	"< 1 year"	"1"	1948	268738	724.9
+	"Census Region 2: Midwest"	"CENS-R2"	"Missouri"	"29"	"Male"	"M"	"1-4 years"	"1-4"	364	1092309	33.3
+	"Census Region 2: Midwest"	"CENS-R2"	"Missouri"	"29"	"Male"	"M"	"5-9 years"	"5-9"	201	1392452	14.4
+	"Census Region 2: Midwest"	"CENS-R2"	"Missouri"	"29"	"Male"	"M"	"10-14 years"	"10-14"	276	1407206	19.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Missouri"	"29"	"Male"	"M"	"15-19 years"	"15-19"	1277	1451081	88.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Missouri"	"29"	"Male"	"M"	"20-24 years"	"20-24"	2380	1515431	157.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Missouri"	"29"	"Male"	"M"	"25-34 years"	"25-34"	5232	2788001	187.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Missouri"	"29"	"Male"	"M"	"35-44 years"	"35-44"	6850	2555996	268.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Missouri"	"29"	"Male"	"M"	"45-54 years"	"45-54"	16972	2892424	586.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Missouri"	"29"	"Male"	"M"	"55-64 years"	"55-64"	32243	2614377	1233.3
+	"Census Region 2: Midwest"	"CENS-R2"	"Missouri"	"29"	"Male"	"M"	"65-74 years"	"65-74"	40285	1649830	2441.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Missouri"	"29"	"Male"	"M"	"75-84 years"	"75-84"	49697	836646	5940.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Missouri"	"29"	"Male"	"M"	"85+ years"	"85+"	44186	280880	15731.3
+	"Census Region 2: Midwest"	"CENS-R2"	"Nebraska"	"31"	"Female"	"F"	"< 1 year"	"1"	444	89444	496.4
+	"Census Region 2: Midwest"	"CENS-R2"	"Nebraska"	"31"	"Female"	"F"	"1-4 years"	"1-4"	90	359615	25.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Nebraska"	"31"	"Female"	"F"	"5-9 years"	"5-9"	54	450325	12.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Nebraska"	"31"	"Female"	"F"	"10-14 years"	"10-14"	67	435445	15.4
+	"Census Region 2: Midwest"	"CENS-R2"	"Nebraska"	"31"	"Female"	"F"	"15-19 years"	"15-19"	137	440324	31.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Nebraska"	"31"	"Female"	"F"	"20-24 years"	"20-24"	185	459967	40.2
+	"Census Region 2: Midwest"	"CENS-R2"	"Nebraska"	"31"	"Female"	"F"	"25-34 years"	"25-34"	447	858696	52.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Nebraska"	"31"	"Female"	"F"	"35-44 years"	"35-44"	902	772516	116.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Nebraska"	"31"	"Female"	"F"	"45-54 years"	"45-54"	2442	851267	286.9
+	"Census Region 2: Midwest"	"CENS-R2"	"Nebraska"	"31"	"Female"	"F"	"55-64 years"	"55-64"	4844	814832	594.5
+	"Census Region 2: Midwest"	"CENS-R2"	"Nebraska"	"31"	"Female"	"F"	"65-74 years"	"65-74"	7320	511646	1430.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Nebraska"	"31"	"Female"	"F"	"75-84 years"	"75-84"	13542	336081	4029.4
+	"Census Region 2: Midwest"	"CENS-R2"	"Nebraska"	"31"	"Female"	"F"	"85+ years"	"85+"	25720	190757	13483.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Nebraska"	"31"	"Male"	"M"	"< 1 year"	"1"	548	94040	582.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Nebraska"	"31"	"Male"	"M"	"1-4 years"	"1-4"	104	377915	27.5
+	"Census Region 2: Midwest"	"CENS-R2"	"Nebraska"	"31"	"Male"	"M"	"5-9 years"	"5-9"	57	473133	12.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Nebraska"	"31"	"Male"	"M"	"10-14 years"	"10-14"	69	454525	15.2
+	"Census Region 2: Midwest"	"CENS-R2"	"Nebraska"	"31"	"Male"	"M"	"15-19 years"	"15-19"	300	460391	65.2
+	"Census Region 2: Midwest"	"CENS-R2"	"Nebraska"	"31"	"Male"	"M"	"20-24 years"	"20-24"	502	482714	104.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Nebraska"	"31"	"Male"	"M"	"25-34 years"	"25-34"	1064	899950	118.2
+	"Census Region 2: Midwest"	"CENS-R2"	"Nebraska"	"31"	"Male"	"M"	"35-44 years"	"35-44"	1426	796661	179.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Nebraska"	"31"	"Male"	"M"	"45-54 years"	"45-54"	3641	855988	425.4
+	"Census Region 2: Midwest"	"CENS-R2"	"Nebraska"	"31"	"Male"	"M"	"55-64 years"	"55-64"	7566	793318	953.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Nebraska"	"31"	"Male"	"M"	"65-74 years"	"65-74"	9894	466827	2119.4
+	"Census Region 2: Midwest"	"CENS-R2"	"Nebraska"	"31"	"Male"	"M"	"75-84 years"	"75-84"	14247	251384	5667.4
+	"Census Region 2: Midwest"	"CENS-R2"	"Nebraska"	"31"	"Male"	"M"	"85+ years"	"85+"	15382	97173	15829.5
+	"Census Region 2: Midwest"	"CENS-R2"	"North Dakota"	"38"	"Female"	"F"	"< 1 year"	"1"	202	35739	565.2
+	"Census Region 2: Midwest"	"CENS-R2"	"North Dakota"	"38"	"Female"	"F"	"1-4 years"	"1-4"	26	135276	19.2
+	"Census Region 2: Midwest"	"CENS-R2"	"North Dakota"	"38"	"Female"	"F"	"5-9 years"	"5-9"	12	155866	7.7 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"North Dakota"	"38"	"Female"	"F"	"10-14 years"	"10-14"	19	143664	13.2 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"North Dakota"	"38"	"Female"	"F"	"15-19 years"	"15-19"	59	162012	36.4
+	"Census Region 2: Midwest"	"CENS-R2"	"North Dakota"	"38"	"Female"	"F"	"20-24 years"	"20-24"	81	214622	37.7
+	"Census Region 2: Midwest"	"CENS-R2"	"North Dakota"	"38"	"Female"	"F"	"25-34 years"	"25-34"	235	333505	70.5
+	"Census Region 2: Midwest"	"CENS-R2"	"North Dakota"	"38"	"Female"	"F"	"35-44 years"	"35-44"	386	266505	144.8
+	"Census Region 2: Midwest"	"CENS-R2"	"North Dakota"	"38"	"Female"	"F"	"45-54 years"	"45-54"	871	313269	278.0
+	"Census Region 2: Midwest"	"CENS-R2"	"North Dakota"	"38"	"Female"	"F"	"55-64 years"	"55-64"	1629	306613	531.3
+	"Census Region 2: Midwest"	"CENS-R2"	"North Dakota"	"38"	"Female"	"F"	"65-74 years"	"65-74"	2566	186826	1373.5
+	"Census Region 2: Midwest"	"CENS-R2"	"North Dakota"	"38"	"Female"	"F"	"75-84 years"	"75-84"	4891	132259	3698.0
+	"Census Region 2: Midwest"	"CENS-R2"	"North Dakota"	"38"	"Female"	"F"	"85+ years"	"85+"	10175	81615	12467.1
+	"Census Region 2: Midwest"	"CENS-R2"	"North Dakota"	"38"	"Male"	"M"	"< 1 year"	"1"	261	37078	703.9
+	"Census Region 2: Midwest"	"CENS-R2"	"North Dakota"	"38"	"Male"	"M"	"1-4 years"	"1-4"	42	141468	29.7
+	"Census Region 2: Midwest"	"CENS-R2"	"North Dakota"	"38"	"Male"	"M"	"5-9 years"	"5-9"	27	164374	16.4
+	"Census Region 2: Midwest"	"CENS-R2"	"North Dakota"	"38"	"Male"	"M"	"10-14 years"	"10-14"	18	150511	12.0 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"North Dakota"	"38"	"Male"	"M"	"15-19 years"	"15-19"	156	176329	88.5
+	"Census Region 2: Midwest"	"CENS-R2"	"North Dakota"	"38"	"Male"	"M"	"20-24 years"	"20-24"	297	248547	119.5
+	"Census Region 2: Midwest"	"CENS-R2"	"North Dakota"	"38"	"Male"	"M"	"25-34 years"	"25-34"	563	390031	144.3
+	"Census Region 2: Midwest"	"CENS-R2"	"North Dakota"	"38"	"Male"	"M"	"35-44 years"	"35-44"	689	295506	233.2
+	"Census Region 2: Midwest"	"CENS-R2"	"North Dakota"	"38"	"Male"	"M"	"45-54 years"	"45-54"	1518	325471	466.4
+	"Census Region 2: Midwest"	"CENS-R2"	"North Dakota"	"38"	"Male"	"M"	"55-64 years"	"55-64"	2966	320551	925.3
+	"Census Region 2: Midwest"	"CENS-R2"	"North Dakota"	"38"	"Male"	"M"	"65-74 years"	"65-74"	3677	179841	2044.6
+	"Census Region 2: Midwest"	"CENS-R2"	"North Dakota"	"38"	"Male"	"M"	"75-84 years"	"75-84"	5384	99623	5404.4
+	"Census Region 2: Midwest"	"CENS-R2"	"North Dakota"	"38"	"Male"	"M"	"85+ years"	"85+"	6079	41763	14555.9
+	"Census Region 2: Midwest"	"CENS-R2"	"South Dakota"	"46"	"Female"	"F"	"< 1 year"	"1"	233	41232	565.1
+	"Census Region 2: Midwest"	"CENS-R2"	"South Dakota"	"46"	"Female"	"F"	"1-4 years"	"1-4"	51	165083	30.9
+	"Census Region 2: Midwest"	"CENS-R2"	"South Dakota"	"46"	"Female"	"F"	"5-9 years"	"5-9"	32	200290	16.0
+	"Census Region 2: Midwest"	"CENS-R2"	"South Dakota"	"46"	"Female"	"F"	"10-14 years"	"10-14"	43	188515	22.8
+	"Census Region 2: Midwest"	"CENS-R2"	"South Dakota"	"46"	"Female"	"F"	"15-19 years"	"15-19"	99	193255	51.2
+	"Census Region 2: Midwest"	"CENS-R2"	"South Dakota"	"46"	"Female"	"F"	"20-24 years"	"20-24"	108	201451	53.6
+	"Census Region 2: Midwest"	"CENS-R2"	"South Dakota"	"46"	"Female"	"F"	"25-34 years"	"25-34"	279	371621	75.1
+	"Census Region 2: Midwest"	"CENS-R2"	"South Dakota"	"46"	"Female"	"F"	"35-44 years"	"35-44"	477	323904	147.3
+	"Census Region 2: Midwest"	"CENS-R2"	"South Dakota"	"46"	"Female"	"F"	"45-54 years"	"45-54"	1144	380285	300.8
+	"Census Region 2: Midwest"	"CENS-R2"	"South Dakota"	"46"	"Female"	"F"	"55-64 years"	"55-64"	2097	377116	556.1
+	"Census Region 2: Midwest"	"CENS-R2"	"South Dakota"	"46"	"Female"	"F"	"65-74 years"	"65-74"	3249	236642	1373.0
+	"Census Region 2: Midwest"	"CENS-R2"	"South Dakota"	"46"	"Female"	"F"	"75-84 years"	"75-84"	5897	157261	3749.8
+	"Census Region 2: Midwest"	"CENS-R2"	"South Dakota"	"46"	"Female"	"F"	"85+ years"	"85+"	11908	95516	12467.0
+	"Census Region 2: Midwest"	"CENS-R2"	"South Dakota"	"46"	"Male"	"M"	"< 1 year"	"1"	329	43428	757.6
+	"Census Region 2: Midwest"	"CENS-R2"	"South Dakota"	"46"	"Male"	"M"	"1-4 years"	"1-4"	69	173294	39.8
+	"Census Region 2: Midwest"	"CENS-R2"	"South Dakota"	"46"	"Male"	"M"	"5-9 years"	"5-9"	39	211695	18.4
+	"Census Region 2: Midwest"	"CENS-R2"	"South Dakota"	"46"	"Male"	"M"	"10-14 years"	"10-14"	50	199385	25.1
+	"Census Region 2: Midwest"	"CENS-R2"	"South Dakota"	"46"	"Male"	"M"	"15-19 years"	"15-19"	198	207051	95.6
+	"Census Region 2: Midwest"	"CENS-R2"	"South Dakota"	"46"	"Male"	"M"	"20-24 years"	"20-24"	306	217938	140.4
+	"Census Region 2: Midwest"	"CENS-R2"	"South Dakota"	"46"	"Male"	"M"	"25-34 years"	"25-34"	596	400716	148.7
+	"Census Region 2: Midwest"	"CENS-R2"	"South Dakota"	"46"	"Male"	"M"	"35-44 years"	"35-44"	829	342270	242.2
+	"Census Region 2: Midwest"	"CENS-R2"	"South Dakota"	"46"	"Male"	"M"	"45-54 years"	"45-54"	1816	387279	468.9
+	"Census Region 2: Midwest"	"CENS-R2"	"South Dakota"	"46"	"Male"	"M"	"55-64 years"	"55-64"	3638	381415	953.8
+	"Census Region 2: Midwest"	"CENS-R2"	"South Dakota"	"46"	"Male"	"M"	"65-74 years"	"65-74"	4641	227544	2039.6
+	"Census Region 2: Midwest"	"CENS-R2"	"South Dakota"	"46"	"Male"	"M"	"75-84 years"	"75-84"	6452	121404	5314.5
+	"Census Region 2: Midwest"	"CENS-R2"	"South Dakota"	"46"	"Male"	"M"	"85+ years"	"85+"	7349	48285	15220.0
+	"Census Region 3: South"	"CENS-R3"	"Delaware"	"10"	"Female"	"F"	"< 1 year"	"1"	275	37492	733.5
+	"Census Region 3: South"	"CENS-R3"	"Delaware"	"10"	"Female"	"F"	"1-4 years"	"1-4"	36	153323	23.5
+	"Census Region 3: South"	"CENS-R3"	"Delaware"	"10"	"Female"	"F"	"5-9 years"	"5-9"	14	196019	7.1 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"Delaware"	"10"	"Female"	"F"	"10-14 years"	"10-14"	26	196151	13.3
+	"Census Region 3: South"	"CENS-R3"	"Delaware"	"10"	"Female"	"F"	"15-19 years"	"15-19"	53	212568	24.9
+	"Census Region 3: South"	"CENS-R3"	"Delaware"	"10"	"Female"	"F"	"20-24 years"	"20-24"	105	221689	47.4
+	"Census Region 3: South"	"CENS-R3"	"Delaware"	"10"	"Female"	"F"	"25-34 years"	"25-34"	359	422921	84.9
+	"Census Region 3: South"	"CENS-R3"	"Delaware"	"10"	"Female"	"F"	"35-44 years"	"35-44"	600	401053	149.6
+	"Census Region 3: South"	"CENS-R3"	"Delaware"	"10"	"Female"	"F"	"45-54 years"	"45-54"	1623	475592	341.3
+	"Census Region 3: South"	"CENS-R3"	"Delaware"	"10"	"Female"	"F"	"55-64 years"	"55-64"	3050	449995	677.8
+	"Census Region 3: South"	"CENS-R3"	"Delaware"	"10"	"Female"	"F"	"65-74 years"	"65-74"	4507	322432	1397.8
+	"Census Region 3: South"	"CENS-R3"	"Delaware"	"10"	"Female"	"F"	"75-84 years"	"75-84"	6952	173053	4017.3
+	"Census Region 3: South"	"CENS-R3"	"Delaware"	"10"	"Female"	"F"	"85+ years"	"85+"	10679	80068	13337.4
+	"Census Region 3: South"	"CENS-R3"	"Delaware"	"10"	"Male"	"M"	"< 1 year"	"1"	323	39176	824.5
+	"Census Region 3: South"	"CENS-R3"	"Delaware"	"10"	"Male"	"M"	"1-4 years"	"1-4"	36	159134	22.6
+	"Census Region 3: South"	"CENS-R3"	"Delaware"	"10"	"Male"	"M"	"5-9 years"	"5-9"	26	200444	13.0
+	"Census Region 3: South"	"CENS-R3"	"Delaware"	"10"	"Male"	"M"	"10-14 years"	"10-14"	35	203774	17.2
+	"Census Region 3: South"	"CENS-R3"	"Delaware"	"10"	"Male"	"M"	"15-19 years"	"15-19"	158	217290	72.7
+	"Census Region 3: South"	"CENS-R3"	"Delaware"	"10"	"Male"	"M"	"20-24 years"	"20-24"	312	223826	139.4
+	"Census Region 3: South"	"CENS-R3"	"Delaware"	"10"	"Male"	"M"	"25-34 years"	"25-34"	767	417413	183.8
+	"Census Region 3: South"	"CENS-R3"	"Delaware"	"10"	"Male"	"M"	"35-44 years"	"35-44"	961	380508	252.6
+	"Census Region 3: South"	"CENS-R3"	"Delaware"	"10"	"Male"	"M"	"45-54 years"	"45-54"	2453	441130	556.1
+	"Census Region 3: South"	"CENS-R3"	"Delaware"	"10"	"Male"	"M"	"55-64 years"	"55-64"	4364	397666	1097.4
+	"Census Region 3: South"	"CENS-R3"	"Delaware"	"10"	"Male"	"M"	"65-74 years"	"65-74"	5811	279138	2081.8
+	"Census Region 3: South"	"CENS-R3"	"Delaware"	"10"	"Male"	"M"	"75-84 years"	"75-84"	7259	135749	5347.4
+	"Census Region 3: South"	"CENS-R3"	"Delaware"	"10"	"Male"	"M"	"85+ years"	"85+"	6323	41731	15151.8
+	"Census Region 3: South"	"CENS-R3"	"District of Columbia"	"11"	"Female"	"F"	"< 1 year"	"1"	215	30219	711.5
+	"Census Region 3: South"	"CENS-R3"	"District of Columbia"	"11"	"Female"	"F"	"1-4 years"	"1-4"	30	106141	28.3
+	"Census Region 3: South"	"CENS-R3"	"District of Columbia"	"11"	"Female"	"F"	"5-9 years"	"5-9"	16	104365	15.3 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"District of Columbia"	"11"	"Female"	"F"	"10-14 years"	"10-14"	10	89408	11.2 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"District of Columbia"	"11"	"Female"	"F"	"15-19 years"	"15-19"	35	140413	24.9
+	"Census Region 3: South"	"CENS-R3"	"District of Columbia"	"11"	"Female"	"F"	"20-24 years"	"20-24"	67	229333	29.2
+	"Census Region 3: South"	"CENS-R3"	"District of Columbia"	"11"	"Female"	"F"	"25-34 years"	"25-34"	247	533079	46.3
+	"Census Region 3: South"	"CENS-R3"	"District of Columbia"	"11"	"Female"	"F"	"35-44 years"	"35-44"	454	314765	144.2
+	"Census Region 3: South"	"CENS-R3"	"District of Columbia"	"11"	"Female"	"F"	"45-54 years"	"45-54"	1313	267804	490.3
+	"Census Region 3: South"	"CENS-R3"	"District of Columbia"	"11"	"Female"	"F"	"55-64 years"	"55-64"	2360	254505	927.3
+	"Census Region 3: South"	"CENS-R3"	"District of Columbia"	"11"	"Female"	"F"	"65-74 years"	"65-74"	2623	162070	1618.4
+	"Census Region 3: South"	"CENS-R3"	"District of Columbia"	"11"	"Female"	"F"	"75-84 years"	"75-84"	3451	90904	3796.3
+	"Census Region 3: South"	"CENS-R3"	"District of Columbia"	"11"	"Female"	"F"	"85+ years"	"85+"	5900	53017	11128.5
+	"Census Region 3: South"	"CENS-R3"	"District of Columbia"	"11"	"Male"	"M"	"< 1 year"	"1"	286	31277	914.4
+	"Census Region 3: South"	"CENS-R3"	"District of Columbia"	"11"	"Male"	"M"	"1-4 years"	"1-4"	34	110387	30.8
+	"Census Region 3: South"	"CENS-R3"	"District of Columbia"	"11"	"Male"	"M"	"5-9 years"	"5-9"	12	105450	11.4 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"District of Columbia"	"11"	"Male"	"M"	"15-19 years"	"15-19"	119	126510	94.1
+	"Census Region 3: South"	"CENS-R3"	"District of Columbia"	"11"	"Male"	"M"	"20-24 years"	"20-24"	275	193072	142.4
+	"Census Region 3: South"	"CENS-R3"	"District of Columbia"	"11"	"Male"	"M"	"25-34 years"	"25-34"	556	472759	117.6
+	"Census Region 3: South"	"CENS-R3"	"District of Columbia"	"11"	"Male"	"M"	"35-44 years"	"35-44"	694	312997	221.7
+	"Census Region 3: South"	"CENS-R3"	"District of Columbia"	"11"	"Male"	"M"	"45-54 years"	"45-54"	1763	268938	655.5
+	"Census Region 3: South"	"CENS-R3"	"District of Columbia"	"11"	"Male"	"M"	"55-64 years"	"55-64"	3387	221483	1529.2
+	"Census Region 3: South"	"CENS-R3"	"District of Columbia"	"11"	"Male"	"M"	"65-74 years"	"65-74"	3212	126038	2548.4
+	"Census Region 3: South"	"CENS-R3"	"District of Columbia"	"11"	"Male"	"M"	"75-84 years"	"75-84"	3134	58890	5321.8
+	"Census Region 3: South"	"CENS-R3"	"District of Columbia"	"11"	"Male"	"M"	"85+ years"	"85+"	3059	23433	13054.2
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Female"	"F"	"< 1 year"	"1"	4186	742772	563.6
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Female"	"F"	"1-4 years"	"1-4"	729	2985662	24.4
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Female"	"F"	"5-9 years"	"5-9"	401	3804888	10.5
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Female"	"F"	"10-14 years"	"10-14"	477	3900955	12.2
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Female"	"F"	"15-19 years"	"15-19"	1205	4035501	29.9
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Female"	"F"	"20-24 years"	"20-24"	2167	4418563	49.0
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Female"	"F"	"25-34 years"	"25-34"	6525	8590669	76.0
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Female"	"F"	"35-44 years"	"35-44"	12057	8564324	140.8
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Female"	"F"	"45-54 years"	"45-54"	31910	9799721	325.6
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Female"	"F"	"55-64 years"	"55-64"	60323	9347443	645.3
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Female"	"F"	"65-74 years"	"65-74"	93225	7440136	1253.0
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Female"	"F"	"75-84 years"	"75-84"	150683	4507784	3342.7
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Female"	"F"	"85+ years"	"85+"	250286	2194799	11403.6
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Female"	"F"	"Not Stated"	"NS"	15	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Male"	"M"	"< 1 year"	"1"	5322	776174	685.7
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Male"	"M"	"1-4 years"	"1-4"	1092	3117522	35.0
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Male"	"M"	"5-9 years"	"5-9"	560	3967479	14.1
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Male"	"M"	"10-14 years"	"10-14"	628	4068318	15.4
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Male"	"M"	"15-19 years"	"15-19"	2946	4275551	68.9
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Male"	"M"	"20-24 years"	"20-24"	6181	4613205	134.0
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Male"	"M"	"25-34 years"	"25-34"	14497	8751246	165.7
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Male"	"M"	"35-44 years"	"35-44"	19311	8429098	229.1
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Male"	"M"	"45-54 years"	"45-54"	49900	9426105	529.4
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Male"	"M"	"55-64 years"	"55-64"	96638	8344731	1158.1
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Male"	"M"	"65-74 years"	"65-74"	130973	6482032	2020.6
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Male"	"M"	"75-84 years"	"75-84"	169826	3664319	4634.6
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Male"	"M"	"85+ years"	"85+"	169066	1321537	12793.1
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Male"	"M"	"Not Stated"	"NS"	47	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"Georgia"	"13"	"Female"	"F"	"< 1 year"	"1"	2905	448854	647.2
+	"Census Region 3: South"	"CENS-R3"	"Georgia"	"13"	"Female"	"F"	"1-4 years"	"1-4"	490	1846382	26.5
+	"Census Region 3: South"	"CENS-R3"	"Georgia"	"13"	"Female"	"F"	"5-9 years"	"5-9"	294	2402730	12.2
+	"Census Region 3: South"	"CENS-R3"	"Georgia"	"13"	"Female"	"F"	"10-14 years"	"10-14"	317	2419258	13.1
+	"Census Region 3: South"	"CENS-R3"	"Georgia"	"13"	"Female"	"F"	"15-19 years"	"15-19"	710	2406901	29.5
+	"Census Region 3: South"	"CENS-R3"	"Georgia"	"13"	"Female"	"F"	"20-24 years"	"20-24"	1152	2470951	46.6
+	"Census Region 3: South"	"CENS-R3"	"Georgia"	"13"	"Female"	"F"	"25-34 years"	"25-34"	3661	4863698	75.3
+	"Census Region 3: South"	"CENS-R3"	"Georgia"	"13"	"Female"	"F"	"35-44 years"	"35-44"	7414	4943137	150.0
+	"Census Region 3: South"	"CENS-R3"	"Georgia"	"13"	"Female"	"F"	"45-54 years"	"45-54"	18179	5033604	361.2
+	"Census Region 3: South"	"CENS-R3"	"Georgia"	"13"	"Female"	"F"	"55-64 years"	"55-64"	32743	4269723	766.9
+	"Census Region 3: South"	"CENS-R3"	"Georgia"	"13"	"Female"	"F"	"65-74 years"	"65-74"	44874	2736852	1639.6
+	"Census Region 3: South"	"CENS-R3"	"Georgia"	"13"	"Female"	"F"	"75-84 years"	"75-84"	62952	1398281	4502.1
+	"Census Region 3: South"	"CENS-R3"	"Georgia"	"13"	"Female"	"F"	"85+ years"	"85+"	86490	610030	14178.0
+	"Census Region 3: South"	"CENS-R3"	"Georgia"	"13"	"Male"	"M"	"< 1 year"	"1"	3545	466625	759.7
+	"Census Region 3: South"	"CENS-R3"	"Georgia"	"13"	"Male"	"M"	"1-4 years"	"1-4"	653	1919542	34.0
+	"Census Region 3: South"	"CENS-R3"	"Georgia"	"13"	"Male"	"M"	"5-9 years"	"5-9"	376	2496097	15.1
+	"Census Region 3: South"	"CENS-R3"	"Georgia"	"13"	"Male"	"M"	"10-14 years"	"10-14"	476	2513978	18.9
+	"Census Region 3: South"	"CENS-R3"	"Georgia"	"13"	"Male"	"M"	"15-19 years"	"15-19"	1830	2519613	72.6
+	"Census Region 3: South"	"CENS-R3"	"Georgia"	"13"	"Male"	"M"	"20-24 years"	"20-24"	3496	2562537	136.4
+	"Census Region 3: South"	"CENS-R3"	"Georgia"	"13"	"Male"	"M"	"25-34 years"	"25-34"	7758	4745878	163.5
+	"Census Region 3: South"	"CENS-R3"	"Georgia"	"13"	"Male"	"M"	"35-44 years"	"35-44"	10780	4693778	229.7
+	"Census Region 3: South"	"CENS-R3"	"Georgia"	"13"	"Male"	"M"	"45-54 years"	"45-54"	26229	4784368	548.2
+	"Census Region 3: South"	"CENS-R3"	"Georgia"	"13"	"Male"	"M"	"55-64 years"	"55-64"	48963	3838503	1275.6
+	"Census Region 3: South"	"CENS-R3"	"Georgia"	"13"	"Male"	"M"	"65-74 years"	"65-74"	58887	2335835	2521.0
+	"Census Region 3: South"	"CENS-R3"	"Georgia"	"13"	"Male"	"M"	"75-84 years"	"75-84"	60071	993166	6048.4
+	"Census Region 3: South"	"CENS-R3"	"Georgia"	"13"	"Male"	"M"	"85+ years"	"85+"	43449	275548	15768.2
+	"Census Region 3: South"	"CENS-R3"	"Maryland"	"24"	"Female"	"F"	"< 1 year"	"1"	1561	249142	626.6
+	"Census Region 3: South"	"CENS-R3"	"Maryland"	"24"	"Female"	"F"	"1-4 years"	"1-4"	219	1010461	21.7
+	"Census Region 3: South"	"CENS-R3"	"Maryland"	"24"	"Female"	"F"	"5-9 years"	"5-9"	132	1275344	10.4
+	"Census Region 3: South"	"CENS-R3"	"Maryland"	"24"	"Female"	"F"	"10-14 years"	"10-14"	140	1293668	10.8
+	"Census Region 3: South"	"CENS-R3"	"Maryland"	"24"	"Female"	"F"	"15-19 years"	"15-19"	367	1347651	27.2
+	"Census Region 3: South"	"CENS-R3"	"Maryland"	"24"	"Female"	"F"	"20-24 years"	"20-24"	639	1373048	46.5
+	"Census Region 3: South"	"CENS-R3"	"Maryland"	"24"	"Female"	"F"	"25-34 years"	"25-34"	1941	2864010	67.8
+	"Census Region 3: South"	"CENS-R3"	"Maryland"	"24"	"Female"	"F"	"35-44 years"	"35-44"	3488	2793703	124.9
+	"Census Region 3: South"	"CENS-R3"	"Maryland"	"24"	"Female"	"F"	"45-54 years"	"45-54"	9499	3218050	295.2
+	"Census Region 3: South"	"CENS-R3"	"Maryland"	"24"	"Female"	"F"	"55-64 years"	"55-64"	17319	2769192	625.4
+	"Census Region 3: South"	"CENS-R3"	"Maryland"	"24"	"Female"	"F"	"65-74 years"	"65-74"	24414	1718657	1420.5
+	"Census Region 3: South"	"CENS-R3"	"Maryland"	"24"	"Female"	"F"	"75-84 years"	"75-84"	37544	942340	3984.1
+	"Census Region 3: South"	"CENS-R3"	"Maryland"	"24"	"Female"	"F"	"85+ years"	"85+"	63341	506908	12495.6
+	"Census Region 3: South"	"CENS-R3"	"Maryland"	"24"	"Male"	"M"	"< 1 year"	"1"	1823	259904	701.4
+	"Census Region 3: South"	"CENS-R3"	"Maryland"	"24"	"Male"	"M"	"1-4 years"	"1-4"	277	1051566	26.3
+	"Census Region 3: South"	"CENS-R3"	"Maryland"	"24"	"Male"	"M"	"5-9 years"	"5-9"	170	1325652	12.8
+	"Census Region 3: South"	"CENS-R3"	"Maryland"	"24"	"Male"	"M"	"10-14 years"	"10-14"	192	1343433	14.3
+	"Census Region 3: South"	"CENS-R3"	"Maryland"	"24"	"Male"	"M"	"15-19 years"	"15-19"	900	1408582	63.9
+	"Census Region 3: South"	"CENS-R3"	"Maryland"	"24"	"Male"	"M"	"20-24 years"	"20-24"	2172	1423229	152.6
+	"Census Region 3: South"	"CENS-R3"	"Maryland"	"24"	"Male"	"M"	"25-34 years"	"25-34"	4729	2792024	169.4
+	"Census Region 3: South"	"CENS-R3"	"Maryland"	"24"	"Male"	"M"	"35-44 years"	"35-44"	5561	2619200	212.3
+	"Census Region 3: South"	"CENS-R3"	"Maryland"	"24"	"Male"	"M"	"45-54 years"	"45-54"	14052	2973386	472.6
+	"Census Region 3: South"	"CENS-R3"	"Maryland"	"24"	"Male"	"M"	"55-64 years"	"55-64"	25619	2483570	1031.5
+	"Census Region 3: South"	"CENS-R3"	"Maryland"	"24"	"Male"	"M"	"65-74 years"	"65-74"	30655	1450449	2113.5
+	"Census Region 3: South"	"CENS-R3"	"Maryland"	"24"	"Male"	"M"	"75-84 years"	"75-84"	36615	678060	5400.0
+	"Census Region 3: South"	"CENS-R3"	"Maryland"	"24"	"Male"	"M"	"85+ years"	"85+"	35779	245431	14578.0
+	"Census Region 3: South"	"CENS-R3"	"Maryland"	"24"	"Male"	"M"	"Not Stated"	"NS"	17	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"North Carolina"	"37"	"Female"	"F"	"< 1 year"	"1"	2679	412981	648.7
+	"Census Region 3: South"	"CENS-R3"	"North Carolina"	"37"	"Female"	"F"	"1-4 years"	"1-4"	401	1692913	23.7
+	"Census Region 3: South"	"CENS-R3"	"North Carolina"	"37"	"Female"	"F"	"5-9 years"	"5-9"	228	2196474	10.4
+	"Census Region 3: South"	"CENS-R3"	"North Carolina"	"37"	"Female"	"F"	"10-14 years"	"10-14"	266	2219059	12.0
+	"Census Region 3: South"	"CENS-R3"	"North Carolina"	"37"	"Female"	"F"	"15-19 years"	"15-19"	669	2249113	29.7
+	"Census Region 3: South"	"CENS-R3"	"North Carolina"	"37"	"Female"	"F"	"20-24 years"	"20-24"	1129	2352842	48.0
+	"Census Region 3: South"	"CENS-R3"	"North Carolina"	"37"	"Female"	"F"	"25-34 years"	"25-34"	3431	4554226	75.3
+	"Census Region 3: South"	"CENS-R3"	"North Carolina"	"37"	"Female"	"F"	"35-44 years"	"35-44"	6848	4671158	146.6
+	"Census Region 3: South"	"CENS-R3"	"North Carolina"	"37"	"Female"	"F"	"45-54 years"	"45-54"	17356	4934423	351.7
+	"Census Region 3: South"	"CENS-R3"	"North Carolina"	"37"	"Female"	"F"	"55-64 years"	"55-64"	32267	4512552	715.0
+	"Census Region 3: South"	"CENS-R3"	"North Carolina"	"37"	"Female"	"F"	"65-74 years"	"65-74"	49091	3092879	1587.2
+	"Census Region 3: South"	"CENS-R3"	"North Carolina"	"37"	"Female"	"F"	"75-84 years"	"75-84"	73026	1702142	4290.2
+	"Census Region 3: South"	"CENS-R3"	"North Carolina"	"37"	"Female"	"F"	"85+ years"	"85+"	107514	783603	13720.5
+	"Census Region 3: South"	"CENS-R3"	"North Carolina"	"37"	"Female"	"F"	"Not Stated"	"NS"	14	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"North Carolina"	"37"	"Male"	"M"	"< 1 year"	"1"	3377	430438	784.5
+	"Census Region 3: South"	"CENS-R3"	"North Carolina"	"37"	"Male"	"M"	"1-4 years"	"1-4"	555	1762045	31.5
+	"Census Region 3: South"	"CENS-R3"	"North Carolina"	"37"	"Male"	"M"	"5-9 years"	"5-9"	325	2290913	14.2
+	"Census Region 3: South"	"CENS-R3"	"North Carolina"	"37"	"Male"	"M"	"10-14 years"	"10-14"	422	2310379	18.3
+	"Census Region 3: South"	"CENS-R3"	"North Carolina"	"37"	"Male"	"M"	"15-19 years"	"15-19"	1712	2345844	73.0
+	"Census Region 3: South"	"CENS-R3"	"North Carolina"	"37"	"Male"	"M"	"20-24 years"	"20-24"	3219	2462737	130.7
+	"Census Region 3: South"	"CENS-R3"	"North Carolina"	"37"	"Male"	"M"	"25-34 years"	"25-34"	7161	4435627	161.4
+	"Census Region 3: South"	"CENS-R3"	"North Carolina"	"37"	"Male"	"M"	"35-44 years"	"35-44"	10325	4495034	229.7
+	"Census Region 3: South"	"CENS-R3"	"North Carolina"	"37"	"Male"	"M"	"45-54 years"	"45-54"	25521	4685654	544.7
+	"Census Region 3: South"	"CENS-R3"	"North Carolina"	"37"	"Male"	"M"	"55-64 years"	"55-64"	48916	4058703	1205.2
+	"Census Region 3: South"	"CENS-R3"	"North Carolina"	"37"	"Male"	"M"	"65-74 years"	"65-74"	64298	2656651	2420.3
+	"Census Region 3: South"	"CENS-R3"	"North Carolina"	"37"	"Male"	"M"	"75-84 years"	"75-84"	71627	1216670	5887.1
+	"Census Region 3: South"	"CENS-R3"	"North Carolina"	"37"	"Male"	"M"	"85+ years"	"85+"	56462	365524	15446.9
+	"Census Region 3: South"	"CENS-R3"	"North Carolina"	"37"	"Male"	"M"	"Not Stated"	"NS"	35	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"South Carolina"	"45"	"Female"	"F"	"< 1 year"	"1"	1259	197946	636.0
+	"Census Region 3: South"	"CENS-R3"	"South Carolina"	"45"	"Female"	"F"	"1-4 years"	"1-4"	197	816039	24.1
+	"Census Region 3: South"	"CENS-R3"	"South Carolina"	"45"	"Female"	"F"	"5-9 years"	"5-9"	147	1046616	14.0
+	"Census Region 3: South"	"CENS-R3"	"South Carolina"	"45"	"Female"	"F"	"10-14 years"	"10-14"	125	1040276	12.0
+	"Census Region 3: South"	"CENS-R3"	"South Carolina"	"45"	"Female"	"F"	"15-19 years"	"15-19"	357	1078206	33.1
+	"Census Region 3: South"	"CENS-R3"	"South Carolina"	"45"	"Female"	"F"	"20-24 years"	"20-24"	622	1182039	52.6
+	"Census Region 3: South"	"CENS-R3"	"South Carolina"	"45"	"Female"	"F"	"25-34 years"	"25-34"	1953	2186202	89.3
+	"Census Region 3: South"	"CENS-R3"	"South Carolina"	"45"	"Female"	"F"	"35-44 years"	"35-44"	3802	2130004	178.5
+	"Census Region 3: South"	"CENS-R3"	"South Carolina"	"45"	"Female"	"F"	"45-54 years"	"45-54"	9705	2364043	410.5
+	"Census Region 3: South"	"CENS-R3"	"South Carolina"	"45"	"Female"	"F"	"55-64 years"	"55-64"	18191	2311152	787.1
+	"Census Region 3: South"	"CENS-R3"	"South Carolina"	"45"	"Female"	"F"	"65-74 years"	"65-74"	26469	1643840	1610.2
+	"Census Region 3: South"	"CENS-R3"	"South Carolina"	"45"	"Female"	"F"	"75-84 years"	"75-84"	37463	839965	4460.1
+	"Census Region 3: South"	"CENS-R3"	"South Carolina"	"45"	"Female"	"F"	"85+ years"	"85+"	52510	369396	14215.1
+	"Census Region 3: South"	"CENS-R3"	"South Carolina"	"45"	"Male"	"M"	"< 1 year"	"1"	1600	205514	778.5
+	"Census Region 3: South"	"CENS-R3"	"South Carolina"	"45"	"Male"	"M"	"1-4 years"	"1-4"	303	842456	36.0
+	"Census Region 3: South"	"CENS-R3"	"South Carolina"	"45"	"Male"	"M"	"5-9 years"	"5-9"	162	1079557	15.0
+	"Census Region 3: South"	"CENS-R3"	"South Carolina"	"45"	"Male"	"M"	"10-14 years"	"10-14"	213	1078770	19.7
+	"Census Region 3: South"	"CENS-R3"	"South Carolina"	"45"	"Male"	"M"	"15-19 years"	"15-19"	965	1138760	84.7
+	"Census Region 3: South"	"CENS-R3"	"South Carolina"	"45"	"Male"	"M"	"20-24 years"	"20-24"	1899	1228151	154.6
+	"Census Region 3: South"	"CENS-R3"	"South Carolina"	"45"	"Male"	"M"	"25-34 years"	"25-34"	4158	2144463	193.9
+	"Census Region 3: South"	"CENS-R3"	"South Carolina"	"45"	"Male"	"M"	"35-44 years"	"35-44"	5953	2045751	291.0
+	"Census Region 3: South"	"CENS-R3"	"South Carolina"	"45"	"Male"	"M"	"45-54 years"	"45-54"	14869	2210551	672.6
+	"Census Region 3: South"	"CENS-R3"	"South Carolina"	"45"	"Male"	"M"	"55-64 years"	"55-64"	28163	2045454	1376.9
+	"Census Region 3: South"	"CENS-R3"	"South Carolina"	"45"	"Male"	"M"	"65-74 years"	"65-74"	36007	1441071	2498.6
+	"Census Region 3: South"	"CENS-R3"	"South Carolina"	"45"	"Male"	"M"	"75-84 years"	"75-84"	37384	631243	5922.3
+	"Census Region 3: South"	"CENS-R3"	"South Carolina"	"45"	"Male"	"M"	"85+ years"	"85+"	27760	173573	15993.3
+	"Census Region 3: South"	"CENS-R3"	"South Carolina"	"45"	"Male"	"M"	"Not Stated"	"NS"	10	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"< 1 year"	"1"	1987	346954	572.7
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"1-4 years"	"1-4"	295	1402253	21.0
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"5-9 years"	"5-9"	185	1778478	10.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"10-14 years"	"10-14"	201	1779252	11.3
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"15-19 years"	"15-19"	494	1858833	26.6
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"20-24 years"	"20-24"	786	1992787	39.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"25-34 years"	"25-34"	2388	3983576	59.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"35-44 years"	"35-44"	4677	3861976	121.1
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"45-54 years"	"45-54"	12320	4253673	289.6
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"55-64 years"	"55-64"	23195	3725527	622.6
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"65-74 years"	"65-74"	34951	2405075	1453.2
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"75-84 years"	"75-84"	53970	1302436	4143.8
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"85+ years"	"85+"	85186	632541	13467.3
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"< 1 year"	"1"	2505	364708	686.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"1-4 years"	"1-4"	377	1466030	25.7
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"5-9 years"	"5-9"	224	1850570	12.1
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"10-14 years"	"10-14"	250	1854203	13.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"15-19 years"	"15-19"	1161	1935605	60.0
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"20-24 years"	"20-24"	2368	2135168	110.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"25-34 years"	"25-34"	5230	4026461	129.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"35-44 years"	"35-44"	7204	3793486	189.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"45-54 years"	"45-54"	18358	4089806	448.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"55-64 years"	"55-64"	35122	3442880	1020.1
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"65-74 years"	"65-74"	45658	2107190	2166.8
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"75-84 years"	"75-84"	53543	964730	5550.1
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"85+ years"	"85+"	47109	308368	15276.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"Not Stated"	"NS"	15	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"West Virginia"	"54"	"Female"	"F"	"< 1 year"	"1"	437	69439	629.3
+	"Census Region 3: South"	"CENS-R3"	"West Virginia"	"54"	"Female"	"F"	"1-4 years"	"1-4"	92	282518	32.6
+	"Census Region 3: South"	"CENS-R3"	"West Virginia"	"54"	"Female"	"F"	"5-9 years"	"5-9"	43	358627	12.0
+	"Census Region 3: South"	"CENS-R3"	"West Virginia"	"54"	"Female"	"F"	"10-14 years"	"10-14"	65	368006	17.7
+	"Census Region 3: South"	"CENS-R3"	"West Virginia"	"54"	"Female"	"F"	"15-19 years"	"15-19"	147	383653	38.3
+	"Census Region 3: South"	"CENS-R3"	"West Virginia"	"54"	"Female"	"F"	"20-24 years"	"20-24"	274	417979	65.6
+	"Census Region 3: South"	"CENS-R3"	"West Virginia"	"54"	"Female"	"F"	"25-34 years"	"25-34"	954	754172	126.5
+	"Census Region 3: South"	"CENS-R3"	"West Virginia"	"54"	"Female"	"F"	"35-44 years"	"35-44"	1894	800670	236.6
+	"Census Region 3: South"	"CENS-R3"	"West Virginia"	"54"	"Female"	"F"	"45-54 years"	"45-54"	4356	910918	478.2
+	"Census Region 3: South"	"CENS-R3"	"West Virginia"	"54"	"Female"	"F"	"55-64 years"	"55-64"	8525	960765	887.3
+	"Census Region 3: South"	"CENS-R3"	"West Virginia"	"54"	"Female"	"F"	"65-74 years"	"65-74"	12941	665043	1945.9
+	"Census Region 3: South"	"CENS-R3"	"West Virginia"	"54"	"Female"	"F"	"75-84 years"	"75-84"	19651	397566	4942.8
+	"Census Region 3: South"	"CENS-R3"	"West Virginia"	"54"	"Female"	"F"	"85+ years"	"85+"	26586	177695	14961.6
+	"Census Region 3: South"	"CENS-R3"	"West Virginia"	"54"	"Male"	"M"	"< 1 year"	"1"	585	72548	806.4
+	"Census Region 3: South"	"CENS-R3"	"West Virginia"	"54"	"Male"	"M"	"1-4 years"	"1-4"	113	295243	38.3
+	"Census Region 3: South"	"CENS-R3"	"West Virginia"	"54"	"Male"	"M"	"5-9 years"	"5-9"	74	377476	19.6
+	"Census Region 3: South"	"CENS-R3"	"West Virginia"	"54"	"Male"	"M"	"10-14 years"	"10-14"	79	385249	20.5
+	"Census Region 3: South"	"CENS-R3"	"West Virginia"	"54"	"Male"	"M"	"15-19 years"	"15-19"	318	408836	77.8
+	"Census Region 3: South"	"CENS-R3"	"West Virginia"	"54"	"Male"	"M"	"20-24 years"	"20-24"	693	437052	158.6
+	"Census Region 3: South"	"CENS-R3"	"West Virginia"	"54"	"Male"	"M"	"25-34 years"	"25-34"	1998	783350	255.1
+	"Census Region 3: South"	"CENS-R3"	"West Virginia"	"54"	"Male"	"M"	"35-44 years"	"35-44"	3106	813856	381.6
+	"Census Region 3: South"	"CENS-R3"	"West Virginia"	"54"	"Male"	"M"	"45-54 years"	"45-54"	6811	897371	759.0
+	"Census Region 3: South"	"CENS-R3"	"West Virginia"	"54"	"Male"	"M"	"55-64 years"	"55-64"	13228	922656	1433.7
+	"Census Region 3: South"	"CENS-R3"	"West Virginia"	"54"	"Male"	"M"	"65-74 years"	"65-74"	17187	614395	2797.4
+	"Census Region 3: South"	"CENS-R3"	"West Virginia"	"54"	"Male"	"M"	"75-84 years"	"75-84"	19411	293701	6609.1
+	"Census Region 3: South"	"CENS-R3"	"West Virginia"	"54"	"Male"	"M"	"85+ years"	"85+"	14999	89642	16732.1
+	"Census Region 3: South"	"CENS-R3"	"Alabama"	"01"	"Female"	"F"	"< 1 year"	"1"	1589	201495	788.6
+	"Census Region 3: South"	"CENS-R3"	"Alabama"	"01"	"Female"	"F"	"1-4 years"	"1-4"	252	818395	30.8
+	"Census Region 3: South"	"CENS-R3"	"Alabama"	"01"	"Female"	"F"	"5-9 years"	"5-9"	162	1049276	15.4
+	"Census Region 3: South"	"CENS-R3"	"Alabama"	"01"	"Female"	"F"	"10-14 years"	"10-14"	194	1080852	17.9
+	"Census Region 3: South"	"CENS-R3"	"Alabama"	"01"	"Female"	"F"	"15-19 years"	"15-19"	459	1116768	41.1
+	"Census Region 3: South"	"CENS-R3"	"Alabama"	"01"	"Female"	"F"	"20-24 years"	"20-24"	783	1206057	64.9
+	"Census Region 3: South"	"CENS-R3"	"Alabama"	"01"	"Female"	"F"	"25-34 years"	"25-34"	2455	2210347	111.1
+	"Census Region 3: South"	"CENS-R3"	"Alabama"	"01"	"Female"	"F"	"35-44 years"	"35-44"	4749	2174802	218.4
+	"Census Region 3: South"	"CENS-R3"	"Alabama"	"01"	"Female"	"F"	"45-54 years"	"45-54"	11200	2397680	467.1
+	"Census Region 3: South"	"CENS-R3"	"Alabama"	"01"	"Female"	"F"	"55-64 years"	"55-64"	20195	2272884	888.5
+	"Census Region 3: South"	"CENS-R3"	"Alabama"	"01"	"Female"	"F"	"65-74 years"	"65-74"	29340	1574329	1863.7
+	"Census Region 3: South"	"CENS-R3"	"Alabama"	"01"	"Female"	"F"	"75-84 years"	"75-84"	43832	907690	4829.0
+	"Census Region 3: South"	"CENS-R3"	"Alabama"	"01"	"Female"	"F"	"85+ years"	"85+"	57496	391007	14704.6
+	"Census Region 3: South"	"CENS-R3"	"Alabama"	"01"	"Male"	"M"	"< 1 year"	"1"	1993	209227	952.6
+	"Census Region 3: South"	"CENS-R3"	"Alabama"	"01"	"Male"	"M"	"1-4 years"	"1-4"	328	851278	38.5
+	"Census Region 3: South"	"CENS-R3"	"Alabama"	"01"	"Male"	"M"	"5-9 years"	"5-9"	228	1091429	20.9
+	"Census Region 3: South"	"CENS-R3"	"Alabama"	"01"	"Male"	"M"	"10-14 years"	"10-14"	246	1124866	21.9
+	"Census Region 3: South"	"CENS-R3"	"Alabama"	"01"	"Male"	"M"	"15-19 years"	"15-19"	1113	1157708	96.1
+	"Census Region 3: South"	"CENS-R3"	"Alabama"	"01"	"Male"	"M"	"20-24 years"	"20-24"	2108	1212820	173.8
+	"Census Region 3: South"	"CENS-R3"	"Alabama"	"01"	"Male"	"M"	"25-34 years"	"25-34"	4902	2145295	228.5
+	"Census Region 3: South"	"CENS-R3"	"Alabama"	"01"	"Male"	"M"	"35-44 years"	"35-44"	7010	2075004	337.8
+	"Census Region 3: South"	"CENS-R3"	"Alabama"	"01"	"Male"	"M"	"45-54 years"	"45-54"	16489	2272567	725.6
+	"Census Region 3: South"	"CENS-R3"	"Alabama"	"01"	"Male"	"M"	"55-64 years"	"55-64"	31388	2074206	1513.3
+	"Census Region 3: South"	"CENS-R3"	"Alabama"	"01"	"Male"	"M"	"65-74 years"	"65-74"	39165	1346798	2908.0
+	"Census Region 3: South"	"CENS-R3"	"Alabama"	"01"	"Male"	"M"	"75-84 years"	"75-84"	42826	642271	6667.9
+	"Census Region 3: South"	"CENS-R3"	"Alabama"	"01"	"Male"	"M"	"85+ years"	"85+"	30291	180431	16788.1
+	"Census Region 3: South"	"CENS-R3"	"Kentucky"	"21"	"Female"	"F"	"< 1 year"	"1"	1121	187778	597.0
+	"Census Region 3: South"	"CENS-R3"	"Kentucky"	"21"	"Female"	"F"	"1-4 years"	"1-4"	212	759999	27.9
+	"Census Region 3: South"	"CENS-R3"	"Kentucky"	"21"	"Female"	"F"	"5-9 years"	"5-9"	137	967589	14.2
+	"Census Region 3: South"	"CENS-R3"	"Kentucky"	"21"	"Female"	"F"	"10-14 years"	"10-14"	140	970036	14.4
+	"Census Region 3: South"	"CENS-R3"	"Kentucky"	"21"	"Female"	"F"	"15-19 years"	"15-19"	352	980795	35.9
+	"Census Region 3: South"	"CENS-R3"	"Kentucky"	"21"	"Female"	"F"	"20-24 years"	"20-24"	626	1050973	59.6
+	"Census Region 3: South"	"CENS-R3"	"Kentucky"	"21"	"Female"	"F"	"25-34 years"	"25-34"	2159	1969483	109.6
+	"Census Region 3: South"	"CENS-R3"	"Kentucky"	"21"	"Female"	"F"	"35-44 years"	"35-44"	4019	1970374	204.0
+	"Census Region 3: South"	"CENS-R3"	"Kentucky"	"21"	"Female"	"F"	"45-54 years"	"45-54"	9990	2198948	454.3
+	"Census Region 3: South"	"CENS-R3"	"Kentucky"	"21"	"Female"	"F"	"55-64 years"	"55-64"	18164	2059946	881.8
+	"Census Region 3: South"	"CENS-R3"	"Kentucky"	"21"	"Female"	"F"	"65-74 years"	"65-74"	26851	1372512	1956.3
+	"Census Region 3: South"	"CENS-R3"	"Kentucky"	"21"	"Female"	"F"	"75-84 years"	"75-84"	37980	774851	4901.6
+	"Census Region 3: South"	"CENS-R3"	"Kentucky"	"21"	"Female"	"F"	"85+ years"	"85+"	51284	353729	14498.1
+	"Census Region 3: South"	"CENS-R3"	"Kentucky"	"21"	"Male"	"M"	"< 1 year"	"1"	1504	198558	757.5
+	"Census Region 3: South"	"CENS-R3"	"Kentucky"	"21"	"Male"	"M"	"1-4 years"	"1-4"	267	798338	33.4
+	"Census Region 3: South"	"CENS-R3"	"Kentucky"	"21"	"Male"	"M"	"5-9 years"	"5-9"	148	1010777	14.6
+	"Census Region 3: South"	"CENS-R3"	"Kentucky"	"21"	"Male"	"M"	"10-14 years"	"10-14"	219	1019102	21.5
+	"Census Region 3: South"	"CENS-R3"	"Kentucky"	"21"	"Male"	"M"	"15-19 years"	"15-19"	790	1037247	76.2
+	"Census Region 3: South"	"CENS-R3"	"Kentucky"	"21"	"Male"	"M"	"20-24 years"	"20-24"	1579	1102932	143.2
+	"Census Region 3: South"	"CENS-R3"	"Kentucky"	"21"	"Male"	"M"	"25-34 years"	"25-34"	4290	2007353	213.7
+	"Census Region 3: South"	"CENS-R3"	"Kentucky"	"21"	"Male"	"M"	"35-44 years"	"35-44"	6577	1980074	332.2
+	"Census Region 3: South"	"CENS-R3"	"Kentucky"	"21"	"Male"	"M"	"45-54 years"	"45-54"	15234	2138772	712.3
+	"Census Region 3: South"	"CENS-R3"	"Kentucky"	"21"	"Male"	"M"	"55-64 years"	"55-64"	27428	1925077	1424.8
+	"Census Region 3: South"	"CENS-R3"	"Kentucky"	"21"	"Male"	"M"	"65-74 years"	"65-74"	34820	1207580	2883.5
+	"Census Region 3: South"	"CENS-R3"	"Kentucky"	"21"	"Male"	"M"	"75-84 years"	"75-84"	37657	559909	6725.6
+	"Census Region 3: South"	"CENS-R3"	"Kentucky"	"21"	"Male"	"M"	"85+ years"	"85+"	27702	165907	16697.3
+	"Census Region 3: South"	"CENS-R3"	"Mississippi"	"28"	"Female"	"F"	"< 1 year"	"1"	1117	132727	841.6
+	"Census Region 3: South"	"CENS-R3"	"Mississippi"	"28"	"Female"	"F"	"1-4 years"	"1-4"	211	549736	38.4
+	"Census Region 3: South"	"CENS-R3"	"Mississippi"	"28"	"Female"	"F"	"5-9 years"	"5-9"	122	709806	17.2
+	"Census Region 3: South"	"CENS-R3"	"Mississippi"	"28"	"Female"	"F"	"10-14 years"	"10-14"	114	705662	16.2
+	"Census Region 3: South"	"CENS-R3"	"Mississippi"	"28"	"Female"	"F"	"15-19 years"	"15-19"	335	729164	45.9
+	"Census Region 3: South"	"CENS-R3"	"Mississippi"	"28"	"Female"	"F"	"20-24 years"	"20-24"	493	763904	64.5
+	"Census Region 3: South"	"CENS-R3"	"Mississippi"	"28"	"Female"	"F"	"25-34 years"	"25-34"	1516	1386783	109.3
+	"Census Region 3: South"	"CENS-R3"	"Mississippi"	"28"	"Female"	"F"	"35-44 years"	"35-44"	2958	1328348	222.7
+	"Census Region 3: South"	"CENS-R3"	"Mississippi"	"28"	"Female"	"F"	"45-54 years"	"45-54"	7250	1435377	505.1
+	"Census Region 3: South"	"CENS-R3"	"Mississippi"	"28"	"Female"	"F"	"55-64 years"	"55-64"	12876	1344963	957.3
+	"Census Region 3: South"	"CENS-R3"	"Mississippi"	"28"	"Female"	"F"	"65-74 years"	"65-74"	17795	902309	1972.2
+	"Census Region 3: South"	"CENS-R3"	"Mississippi"	"28"	"Female"	"F"	"75-84 years"	"75-84"	25469	526555	4836.9
+	"Census Region 3: South"	"CENS-R3"	"Mississippi"	"28"	"Female"	"F"	"85+ years"	"85+"	33719	231900	14540.3
+	"Census Region 3: South"	"CENS-R3"	"Mississippi"	"28"	"Female"	"F"	"Not Stated"	"NS"	18	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"Mississippi"	"28"	"Male"	"M"	"< 1 year"	"1"	1358	137019	991.1
+	"Census Region 3: South"	"CENS-R3"	"Mississippi"	"28"	"Male"	"M"	"1-4 years"	"1-4"	270	568326	47.5
+	"Census Region 3: South"	"CENS-R3"	"Mississippi"	"28"	"Male"	"M"	"5-9 years"	"5-9"	137	740335	18.5
+	"Census Region 3: South"	"CENS-R3"	"Mississippi"	"28"	"Male"	"M"	"10-14 years"	"10-14"	214	738579	29.0
+	"Census Region 3: South"	"CENS-R3"	"Mississippi"	"28"	"Male"	"M"	"15-19 years"	"15-19"	702	757507	92.7
+	"Census Region 3: South"	"CENS-R3"	"Mississippi"	"28"	"Male"	"M"	"20-24 years"	"20-24"	1339	774091	173.0
+	"Census Region 3: South"	"CENS-R3"	"Mississippi"	"28"	"Male"	"M"	"25-34 years"	"25-34"	3082	1351195	228.1
+	"Census Region 3: South"	"CENS-R3"	"Mississippi"	"28"	"Male"	"M"	"35-44 years"	"35-44"	4500	1260135	357.1
+	"Census Region 3: South"	"CENS-R3"	"Mississippi"	"28"	"Male"	"M"	"45-54 years"	"45-54"	10620	1345304	789.4
+	"Census Region 3: South"	"CENS-R3"	"Mississippi"	"28"	"Male"	"M"	"55-64 years"	"55-64"	19986	1225131	1631.3
+	"Census Region 3: South"	"CENS-R3"	"Mississippi"	"28"	"Male"	"M"	"65-74 years"	"65-74"	23688	777588	3046.3
+	"Census Region 3: South"	"CENS-R3"	"Mississippi"	"28"	"Male"	"M"	"75-84 years"	"75-84"	25332	364239	6954.8
+	"Census Region 3: South"	"CENS-R3"	"Mississippi"	"28"	"Male"	"M"	"85+ years"	"85+"	17317	104719	16536.6
+	"Census Region 3: South"	"CENS-R3"	"Mississippi"	"28"	"Male"	"M"	"Not Stated"	"NS"	33	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"Tennessee"	"47"	"Female"	"F"	"< 1 year"	"1"	1787	273800	652.7
+	"Census Region 3: South"	"CENS-R3"	"Tennessee"	"47"	"Female"	"F"	"1-4 years"	"1-4"	306	1110790	27.5
+	"Census Region 3: South"	"CENS-R3"	"Tennessee"	"47"	"Female"	"F"	"5-9 years"	"5-9"	186	1425756	13.0
+	"Census Region 3: South"	"CENS-R3"	"Tennessee"	"47"	"Female"	"F"	"10-14 years"	"10-14"	199	1441613	13.8
+	"Census Region 3: South"	"CENS-R3"	"Tennessee"	"47"	"Female"	"F"	"15-19 years"	"15-19"	464	1447057	32.1
+	"Census Region 3: South"	"CENS-R3"	"Tennessee"	"47"	"Female"	"F"	"20-24 years"	"20-24"	872	1577724	55.3
+	"Census Region 3: South"	"CENS-R3"	"Tennessee"	"47"	"Female"	"F"	"25-34 years"	"25-34"	2845	3010507	94.5
+	"Census Region 3: South"	"CENS-R3"	"Tennessee"	"47"	"Female"	"F"	"35-44 years"	"35-44"	5758	2980857	193.2
+	"Census Region 3: South"	"CENS-R3"	"Tennessee"	"47"	"Female"	"F"	"45-54 years"	"45-54"	14427	3251862	443.7
+	"Census Region 3: South"	"CENS-R3"	"Tennessee"	"47"	"Female"	"F"	"55-64 years"	"55-64"	26091	3042740	857.5
+	"Census Region 3: South"	"CENS-R3"	"Tennessee"	"47"	"Female"	"F"	"65-74 years"	"65-74"	37832	2076570	1821.9
+	"Census Region 3: South"	"CENS-R3"	"Tennessee"	"47"	"Female"	"F"	"75-84 years"	"75-84"	54227	1151890	4707.7
+	"Census Region 3: South"	"CENS-R3"	"Tennessee"	"47"	"Female"	"F"	"85+ years"	"85+"	74769	517620	14444.8
+	"Census Region 3: South"	"CENS-R3"	"Tennessee"	"47"	"Male"	"M"	"< 1 year"	"1"	2291	286356	800.1
+	"Census Region 3: South"	"CENS-R3"	"Tennessee"	"47"	"Male"	"M"	"1-4 years"	"1-4"	382	1158363	33.0
+	"Census Region 3: South"	"CENS-R3"	"Tennessee"	"47"	"Male"	"M"	"5-9 years"	"5-9"	217	1480404	14.7
+	"Census Region 3: South"	"CENS-R3"	"Tennessee"	"47"	"Male"	"M"	"10-14 years"	"10-14"	300	1504264	19.9
+	"Census Region 3: South"	"CENS-R3"	"Tennessee"	"47"	"Male"	"M"	"15-19 years"	"15-19"	1298	1516429	85.6
+	"Census Region 3: South"	"CENS-R3"	"Tennessee"	"47"	"Male"	"M"	"20-24 years"	"20-24"	2363	1591579	148.5
+	"Census Region 3: South"	"CENS-R3"	"Tennessee"	"47"	"Male"	"M"	"25-34 years"	"25-34"	5781	2956117	195.6
+	"Census Region 3: South"	"CENS-R3"	"Tennessee"	"47"	"Male"	"M"	"35-44 years"	"35-44"	8850	2909202	304.2
+	"Census Region 3: South"	"CENS-R3"	"Tennessee"	"47"	"Male"	"M"	"45-54 years"	"45-54"	21576	3094969	697.1
+	"Census Region 3: South"	"CENS-R3"	"Tennessee"	"47"	"Male"	"M"	"55-64 years"	"55-64"	39751	2773363	1433.3
+	"Census Region 3: South"	"CENS-R3"	"Tennessee"	"47"	"Male"	"M"	"65-74 years"	"65-74"	49868	1832167	2721.8
+	"Census Region 3: South"	"CENS-R3"	"Tennessee"	"47"	"Male"	"M"	"75-84 years"	"75-84"	52867	831194	6360.4
+	"Census Region 3: South"	"CENS-R3"	"Tennessee"	"47"	"Male"	"M"	"85+ years"	"85+"	39255	240586	16316.4
+	"Census Region 3: South"	"CENS-R3"	"Arkansas"	"05"	"Female"	"F"	"< 1 year"	"1"	890	129802	685.7
+	"Census Region 3: South"	"CENS-R3"	"Arkansas"	"05"	"Female"	"F"	"1-4 years"	"1-4"	165	530270	31.1
+	"Census Region 3: South"	"CENS-R3"	"Arkansas"	"05"	"Female"	"F"	"5-9 years"	"5-9"	102	678337	15.0
+	"Census Region 3: South"	"CENS-R3"	"Arkansas"	"05"	"Female"	"F"	"10-14 years"	"10-14"	104	677603	15.3
+	"Census Region 3: South"	"CENS-R3"	"Arkansas"	"05"	"Female"	"F"	"15-19 years"	"15-19"	252	680244	37.0
+	"Census Region 3: South"	"CENS-R3"	"Arkansas"	"05"	"Female"	"F"	"20-24 years"	"20-24"	414	715619	57.9
+	"Census Region 3: South"	"CENS-R3"	"Arkansas"	"05"	"Female"	"F"	"25-34 years"	"25-34"	1350	1340940	100.7
+	"Census Region 3: South"	"CENS-R3"	"Arkansas"	"05"	"Female"	"F"	"35-44 years"	"35-44"	2661	1284096	207.2
+	"Census Region 3: South"	"CENS-R3"	"Arkansas"	"05"	"Female"	"F"	"45-54 years"	"45-54"	6372	1390960	458.1
+	"Census Region 3: South"	"CENS-R3"	"Arkansas"	"05"	"Female"	"F"	"55-64 years"	"55-64"	11693	1331058	878.5
+	"Census Region 3: South"	"CENS-R3"	"Arkansas"	"05"	"Female"	"F"	"65-74 years"	"65-74"	17808	965924	1843.6
+	"Census Region 3: South"	"CENS-R3"	"Arkansas"	"05"	"Female"	"F"	"75-84 years"	"75-84"	25956	554651	4679.7
+	"Census Region 3: South"	"CENS-R3"	"Arkansas"	"05"	"Female"	"F"	"85+ years"	"85+"	36083	252192	14307.7
+	"Census Region 3: South"	"CENS-R3"	"Arkansas"	"05"	"Male"	"M"	"< 1 year"	"1"	1127	136523	825.5
+	"Census Region 3: South"	"CENS-R3"	"Arkansas"	"05"	"Male"	"M"	"1-4 years"	"1-4"	219	555484	39.4
+	"Census Region 3: South"	"CENS-R3"	"Arkansas"	"05"	"Male"	"M"	"5-9 years"	"5-9"	139	709157	19.6
+	"Census Region 3: South"	"CENS-R3"	"Arkansas"	"05"	"Male"	"M"	"10-14 years"	"10-14"	186	709523	26.2
+	"Census Region 3: South"	"CENS-R3"	"Arkansas"	"05"	"Male"	"M"	"15-19 years"	"15-19"	648	711574	91.1
+	"Census Region 3: South"	"CENS-R3"	"Arkansas"	"05"	"Male"	"M"	"20-24 years"	"20-24"	1195	736898	162.2
+	"Census Region 3: South"	"CENS-R3"	"Arkansas"	"05"	"Male"	"M"	"25-34 years"	"25-34"	2825	1348142	209.5
+	"Census Region 3: South"	"CENS-R3"	"Arkansas"	"05"	"Male"	"M"	"35-44 years"	"35-44"	3965	1270092	312.2
+	"Census Region 3: South"	"CENS-R3"	"Arkansas"	"05"	"Male"	"M"	"45-54 years"	"45-54"	9456	1353864	698.4
+	"Census Region 3: South"	"CENS-R3"	"Arkansas"	"05"	"Male"	"M"	"55-64 years"	"55-64"	18398	1233330	1491.7
+	"Census Region 3: South"	"CENS-R3"	"Arkansas"	"05"	"Male"	"M"	"65-74 years"	"65-74"	24182	853269	2834.0
+	"Census Region 3: South"	"CENS-R3"	"Arkansas"	"05"	"Male"	"M"	"75-84 years"	"75-84"	26693	420271	6351.4
+	"Census Region 3: South"	"CENS-R3"	"Arkansas"	"05"	"Male"	"M"	"85+ years"	"85+"	20076	127949	15690.6
+	"Census Region 3: South"	"CENS-R3"	"Louisiana"	"22"	"Female"	"F"	"< 1 year"	"1"	1563	213426	732.3
+	"Census Region 3: South"	"CENS-R3"	"Louisiana"	"22"	"Female"	"F"	"1-4 years"	"1-4"	299	854485	35.0
+	"Census Region 3: South"	"CENS-R3"	"Louisiana"	"22"	"Female"	"F"	"5-9 years"	"5-9"	153	1066327	14.3
+	"Census Region 3: South"	"CENS-R3"	"Louisiana"	"22"	"Female"	"F"	"10-14 years"	"10-14"	177	1054453	16.8
+	"Census Region 3: South"	"CENS-R3"	"Louisiana"	"22"	"Female"	"F"	"15-19 years"	"15-19"	433	1056695	41.0
+	"Census Region 3: South"	"CENS-R3"	"Louisiana"	"22"	"Female"	"F"	"20-24 years"	"20-24"	691	1197095	57.7
+	"Census Region 3: South"	"CENS-R3"	"Louisiana"	"22"	"Female"	"F"	"25-34 years"	"25-34"	2367	2308271	102.5
+	"Census Region 3: South"	"CENS-R3"	"Louisiana"	"22"	"Female"	"F"	"35-44 years"	"35-44"	3995	1998611	199.9
+	"Census Region 3: South"	"CENS-R3"	"Louisiana"	"22"	"Female"	"F"	"45-54 years"	"45-54"	9643	2234216	431.6
+	"Census Region 3: South"	"CENS-R3"	"Louisiana"	"22"	"Female"	"F"	"55-64 years"	"55-64"	18027	2089660	862.7
+	"Census Region 3: South"	"CENS-R3"	"Louisiana"	"22"	"Female"	"F"	"65-74 years"	"65-74"	24688	1339302	1843.3
+	"Census Region 3: South"	"CENS-R3"	"Louisiana"	"22"	"Female"	"F"	"75-84 years"	"75-84"	35683	763577	4673.1
+	"Census Region 3: South"	"CENS-R3"	"Louisiana"	"22"	"Female"	"F"	"85+ years"	"85+"	47346	336949	14051.4
+	"Census Region 3: South"	"CENS-R3"	"Louisiana"	"22"	"Male"	"M"	"< 1 year"	"1"	1963	222326	882.9
+	"Census Region 3: South"	"CENS-R3"	"Louisiana"	"22"	"Male"	"M"	"1-4 years"	"1-4"	431	887822	48.5
+	"Census Region 3: South"	"CENS-R3"	"Louisiana"	"22"	"Male"	"M"	"5-9 years"	"5-9"	211	1109395	19.0
+	"Census Region 3: South"	"CENS-R3"	"Louisiana"	"22"	"Male"	"M"	"10-14 years"	"10-14"	270	1100148	24.5
+	"Census Region 3: South"	"CENS-R3"	"Louisiana"	"22"	"Male"	"M"	"15-19 years"	"15-19"	1115	1096979	101.6
+	"Census Region 3: South"	"CENS-R3"	"Louisiana"	"22"	"Male"	"M"	"20-24 years"	"20-24"	2241	1209892	185.2
+	"Census Region 3: South"	"CENS-R3"	"Louisiana"	"22"	"Male"	"M"	"25-34 years"	"25-34"	5099	2313046	220.4
+	"Census Region 3: South"	"CENS-R3"	"Louisiana"	"22"	"Male"	"M"	"35-44 years"	"35-44"	6304	1959967	321.6
+	"Census Region 3: South"	"CENS-R3"	"Louisiana"	"22"	"Male"	"M"	"45-54 years"	"45-54"	15087	2129387	708.5
+	"Census Region 3: South"	"CENS-R3"	"Louisiana"	"22"	"Male"	"M"	"55-64 years"	"55-64"	28268	1937120	1459.3
+	"Census Region 3: South"	"CENS-R3"	"Louisiana"	"22"	"Male"	"M"	"65-74 years"	"65-74"	32032	1150204	2784.9
+	"Census Region 3: South"	"CENS-R3"	"Louisiana"	"22"	"Male"	"M"	"75-84 years"	"75-84"	34553	540600	6391.6
+	"Census Region 3: South"	"CENS-R3"	"Louisiana"	"22"	"Male"	"M"	"85+ years"	"85+"	26394	167160	15789.7
+	"Census Region 3: South"	"CENS-R3"	"Oklahoma"	"40"	"Female"	"F"	"< 1 year"	"1"	1202	179980	667.9
+	"Census Region 3: South"	"CENS-R3"	"Oklahoma"	"40"	"Female"	"F"	"1-4 years"	"1-4"	251	730657	34.4
+	"Census Region 3: South"	"CENS-R3"	"Oklahoma"	"40"	"Female"	"F"	"5-9 years"	"5-9"	123	912004	13.5
+	"Census Region 3: South"	"CENS-R3"	"Oklahoma"	"40"	"Female"	"F"	"10-14 years"	"10-14"	121	890206	13.6
+	"Census Region 3: South"	"CENS-R3"	"Oklahoma"	"40"	"Female"	"F"	"15-19 years"	"15-19"	354	878872	40.3
+	"Census Region 3: South"	"CENS-R3"	"Oklahoma"	"40"	"Female"	"F"	"20-24 years"	"20-24"	567	959110	59.1
+	"Census Region 3: South"	"CENS-R3"	"Oklahoma"	"40"	"Female"	"F"	"25-34 years"	"25-34"	1819	1816363	100.1
+	"Census Region 3: South"	"CENS-R3"	"Oklahoma"	"40"	"Female"	"F"	"35-44 years"	"35-44"	3322	1628501	204.0
+	"Census Region 3: South"	"CENS-R3"	"Oklahoma"	"40"	"Female"	"F"	"45-54 years"	"45-54"	8338	1760806	473.5
+	"Census Region 3: South"	"CENS-R3"	"Oklahoma"	"40"	"Female"	"F"	"55-64 years"	"55-64"	15698	1686981	930.5
+	"Census Region 3: South"	"CENS-R3"	"Oklahoma"	"40"	"Female"	"F"	"65-74 years"	"65-74"	22551	1158554	1946.5
+	"Census Region 3: South"	"CENS-R3"	"Oklahoma"	"40"	"Female"	"F"	"75-84 years"	"75-84"	32601	677746	4810.2
+	"Census Region 3: South"	"CENS-R3"	"Oklahoma"	"40"	"Female"	"F"	"85+ years"	"85+"	43281	304874	14196.4
+	"Census Region 3: South"	"CENS-R3"	"Oklahoma"	"40"	"Male"	"M"	"< 1 year"	"1"	1553	188426	824.2
+	"Census Region 3: South"	"CENS-R3"	"Oklahoma"	"40"	"Male"	"M"	"1-4 years"	"1-4"	334	762050	43.8
+	"Census Region 3: South"	"CENS-R3"	"Oklahoma"	"40"	"Male"	"M"	"5-9 years"	"5-9"	208	953311	21.8
+	"Census Region 3: South"	"CENS-R3"	"Oklahoma"	"40"	"Male"	"M"	"10-14 years"	"10-14"	227	934939	24.3
+	"Census Region 3: South"	"CENS-R3"	"Oklahoma"	"40"	"Male"	"M"	"15-19 years"	"15-19"	896	935167	95.8
+	"Census Region 3: South"	"CENS-R3"	"Oklahoma"	"40"	"Male"	"M"	"20-24 years"	"20-24"	1558	1016487	153.3
+	"Census Region 3: South"	"CENS-R3"	"Oklahoma"	"40"	"Male"	"M"	"25-34 years"	"25-34"	3696	1877134	196.9
+	"Census Region 3: South"	"CENS-R3"	"Oklahoma"	"40"	"Male"	"M"	"35-44 years"	"35-44"	5180	1653349	313.3
+	"Census Region 3: South"	"CENS-R3"	"Oklahoma"	"40"	"Male"	"M"	"45-54 years"	"45-54"	12204	1733977	703.8
+	"Census Region 3: South"	"CENS-R3"	"Oklahoma"	"40"	"Male"	"M"	"55-64 years"	"55-64"	23290	1582794	1471.4
+	"Census Region 3: South"	"CENS-R3"	"Oklahoma"	"40"	"Male"	"M"	"65-74 years"	"65-74"	28457	1019909	2790.2
+	"Census Region 3: South"	"CENS-R3"	"Oklahoma"	"40"	"Male"	"M"	"75-84 years"	"75-84"	32533	512463	6348.4
+	"Census Region 3: South"	"CENS-R3"	"Oklahoma"	"40"	"Male"	"M"	"85+ years"	"85+"	25754	160908	16005.4
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"Female"	"F"	"< 1 year"	"1"	7089	1337479	530.0
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"Female"	"F"	"1-4 years"	"1-4"	1307	5385968	24.3
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"Female"	"F"	"5-9 years"	"5-9"	709	6821868	10.4
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"Female"	"F"	"10-14 years"	"10-14"	836	6732072	12.4
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"Female"	"F"	"15-19 years"	"15-19"	1929	6491751	29.7
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"Female"	"F"	"20-24 years"	"20-24"	3088	6603897	46.8
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"Female"	"F"	"25-34 years"	"25-34"	8649	13297341	65.0
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"Female"	"F"	"35-44 years"	"35-44"	15921	12596820	126.4
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"Female"	"F"	"45-54 years"	"45-54"	38376	12223519	314.0
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"Female"	"F"	"55-64 years"	"55-64"	71174	10383034	685.5
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"Female"	"F"	"65-74 years"	"65-74"	98514	6463201	1524.2
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"Female"	"F"	"75-84 years"	"75-84"	148382	3545381	4185.2
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"Female"	"F"	"85+ years"	"85+"	211299	1604302	13170.8
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"Female"	"F"	"Not Stated"	"NS"	10	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"Male"	"M"	"< 1 year"	"1"	8847	1397316	633.1
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"Male"	"M"	"1-4 years"	"1-4"	1718	5615117	30.6
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"Male"	"M"	"5-9 years"	"5-9"	1016	7094569	14.3
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"Male"	"M"	"10-14 years"	"10-14"	1180	7003565	16.8
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"Male"	"M"	"15-19 years"	"15-19"	4592	6862439	66.9
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"Male"	"M"	"20-24 years"	"20-24"	8838	7005370	126.2
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"Male"	"M"	"25-34 years"	"25-34"	18988	13637703	139.2
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"Male"	"M"	"35-44 years"	"35-44"	25766	12512644	205.9
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"Male"	"M"	"45-54 years"	"45-54"	60179	12038079	499.9
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"Male"	"M"	"55-64 years"	"55-64"	111307	9739313	1142.9
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"Male"	"M"	"65-74 years"	"65-74"	131389	5690110	2309.1
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"Male"	"M"	"75-84 years"	"75-84"	149705	2654782	5639.1
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"Male"	"M"	"85+ years"	"85+"	123225	836476	14731.4
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"Male"	"M"	"Not Stated"	"NS"	36	Not Applicable	Not Applicable
+	"Census Region 4: West"	"CENS-R4"	"Arizona"	"04"	"Female"	"F"	"< 1 year"	"1"	1565	295610	529.4
+	"Census Region 4: West"	"CENS-R4"	"Arizona"	"04"	"Female"	"F"	"1-4 years"	"1-4"	330	1209513	27.3
+	"Census Region 4: West"	"CENS-R4"	"Arizona"	"04"	"Female"	"F"	"5-9 years"	"5-9"	159	1562737	10.2
+	"Census Region 4: West"	"CENS-R4"	"Arizona"	"04"	"Female"	"F"	"10-14 years"	"10-14"	202	1558753	13.0
+	"Census Region 4: West"	"CENS-R4"	"Arizona"	"04"	"Female"	"F"	"15-19 years"	"15-19"	443	1553940	28.5
+	"Census Region 4: West"	"CENS-R4"	"Arizona"	"04"	"Female"	"F"	"20-24 years"	"20-24"	799	1602539	49.9
+	"Census Region 4: West"	"CENS-R4"	"Arizona"	"04"	"Female"	"F"	"25-34 years"	"25-34"	2329	3017431	77.2
+	"Census Region 4: West"	"CENS-R4"	"Arizona"	"04"	"Female"	"F"	"35-44 years"	"35-44"	4009	2882799	139.1
+	"Census Region 4: West"	"CENS-R4"	"Arizona"	"04"	"Female"	"F"	"45-54 years"	"45-54"	9170	2972976	308.4
+	"Census Region 4: West"	"CENS-R4"	"Arizona"	"04"	"Female"	"F"	"55-64 years"	"55-64"	17960	2864305	627.0
+	"Census Region 4: West"	"CENS-R4"	"Arizona"	"04"	"Female"	"F"	"65-74 years"	"65-74"	27652	2177157	1270.1
+	"Census Region 4: West"	"CENS-R4"	"Arizona"	"04"	"Female"	"F"	"75-84 years"	"75-84"	41071	1175376	3494.3
+	"Census Region 4: West"	"CENS-R4"	"Arizona"	"04"	"Female"	"F"	"85+ years"	"85+"	62435	518221	12047.9
+	"Census Region 4: West"	"CENS-R4"	"Arizona"	"04"	"Female"	"F"	"Not Stated"	"NS"	19	Not Applicable	Not Applicable
+	"Census Region 4: West"	"CENS-R4"	"Arizona"	"04"	"Male"	"M"	"< 1 year"	"1"	1878	309481	606.8
+	"Census Region 4: West"	"CENS-R4"	"Arizona"	"04"	"Male"	"M"	"1-4 years"	"1-4"	473	1260578	37.5
+	"Census Region 4: West"	"CENS-R4"	"Arizona"	"04"	"Male"	"M"	"5-9 years"	"5-9"	213	1625985	13.1
+	"Census Region 4: West"	"CENS-R4"	"Arizona"	"04"	"Male"	"M"	"10-14 years"	"10-14"	271	1617447	16.8
+	"Census Region 4: West"	"CENS-R4"	"Arizona"	"04"	"Male"	"M"	"15-19 years"	"15-19"	1137	1643197	69.2
+	"Census Region 4: West"	"CENS-R4"	"Arizona"	"04"	"Male"	"M"	"20-24 years"	"20-24"	2384	1730202	137.8
+	"Census Region 4: West"	"CENS-R4"	"Arizona"	"04"	"Male"	"M"	"25-34 years"	"25-34"	5420	3202329	169.3
+	"Census Region 4: West"	"CENS-R4"	"Arizona"	"04"	"Male"	"M"	"35-44 years"	"35-44"	6856	2935541	233.6
+	"Census Region 4: West"	"CENS-R4"	"Arizona"	"04"	"Male"	"M"	"45-54 years"	"45-54"	15241	2912956	523.2
+	"Census Region 4: West"	"CENS-R4"	"Arizona"	"04"	"Male"	"M"	"55-64 years"	"55-64"	28278	2590249	1091.7
+	"Census Region 4: West"	"CENS-R4"	"Arizona"	"04"	"Male"	"M"	"65-74 years"	"65-74"	38528	1946040	1979.8
+	"Census Region 4: West"	"CENS-R4"	"Arizona"	"04"	"Male"	"M"	"75-84 years"	"75-84"	46850	1015110	4615.3
+	"Census Region 4: West"	"CENS-R4"	"Arizona"	"04"	"Male"	"M"	"85+ years"	"85+"	42002	321588	13060.8
+	"Census Region 4: West"	"CENS-R4"	"Arizona"	"04"	"Male"	"M"	"Not Stated"	"NS"	34	Not Applicable	Not Applicable
+	"Census Region 4: West"	"CENS-R4"	"Colorado"	"08"	"Female"	"F"	"< 1 year"	"1"	1041	226226	460.2
+	"Census Region 4: West"	"CENS-R4"	"Colorado"	"08"	"Female"	"F"	"1-4 years"	"1-4"	186	927991	20.0
+	"Census Region 4: West"	"CENS-R4"	"Colorado"	"08"	"Female"	"F"	"5-9 years"	"5-9"	114	1207808	9.4
+	"Census Region 4: West"	"CENS-R4"	"Colorado"	"08"	"Female"	"F"	"10-14 years"	"10-14"	133	1190108	11.2
+	"Census Region 4: West"	"CENS-R4"	"Colorado"	"08"	"Female"	"F"	"15-19 years"	"15-19"	348	1163946	29.9
+	"Census Region 4: West"	"CENS-R4"	"Colorado"	"08"	"Female"	"F"	"20-24 years"	"20-24"	599	1244382	48.1
+	"Census Region 4: West"	"CENS-R4"	"Colorado"	"08"	"Female"	"F"	"25-34 years"	"25-34"	1730	2641377	65.5
+	"Census Region 4: West"	"CENS-R4"	"Colorado"	"08"	"Female"	"F"	"35-44 years"	"35-44"	2781	2448914	113.6
+	"Census Region 4: West"	"CENS-R4"	"Colorado"	"08"	"Female"	"F"	"45-54 years"	"45-54"	6561	2540433	258.3
+	"Census Region 4: West"	"CENS-R4"	"Colorado"	"08"	"Female"	"F"	"55-64 years"	"55-64"	12321	2338205	526.9
+	"Census Region 4: West"	"CENS-R4"	"Colorado"	"08"	"Female"	"F"	"65-74 years"	"65-74"	17066	1399903	1219.1
+	"Census Region 4: West"	"CENS-R4"	"Colorado"	"08"	"Female"	"F"	"75-84 years"	"75-84"	27470	718631	3822.5
+	"Census Region 4: West"	"CENS-R4"	"Colorado"	"08"	"Female"	"F"	"85+ years"	"85+"	46886	359068	13057.7
+	"Census Region 4: West"	"CENS-R4"	"Colorado"	"08"	"Male"	"M"	"< 1 year"	"1"	1285	237172	541.8
+	"Census Region 4: West"	"CENS-R4"	"Colorado"	"08"	"Male"	"M"	"1-4 years"	"1-4"	271	976029	27.8
+	"Census Region 4: West"	"CENS-R4"	"Colorado"	"08"	"Male"	"M"	"5-9 years"	"5-9"	138	1266052	10.9
+	"Census Region 4: West"	"CENS-R4"	"Colorado"	"08"	"Male"	"M"	"10-14 years"	"10-14"	230	1242938	18.5
+	"Census Region 4: West"	"CENS-R4"	"Colorado"	"08"	"Male"	"M"	"15-19 years"	"15-19"	819	1244809	65.8
+	"Census Region 4: West"	"CENS-R4"	"Colorado"	"08"	"Male"	"M"	"20-24 years"	"20-24"	1666	1360314	122.5
+	"Census Region 4: West"	"CENS-R4"	"Colorado"	"08"	"Male"	"M"	"25-34 years"	"25-34"	3880	2818020	137.7
+	"Census Region 4: West"	"CENS-R4"	"Colorado"	"08"	"Male"	"M"	"35-44 years"	"35-44"	5000	2575792	194.1
+	"Census Region 4: West"	"CENS-R4"	"Colorado"	"08"	"Male"	"M"	"45-54 years"	"45-54"	10554	2530716	417.0
+	"Census Region 4: West"	"CENS-R4"	"Colorado"	"08"	"Male"	"M"	"55-64 years"	"55-64"	19980	2244693	890.1
+	"Census Region 4: West"	"CENS-R4"	"Colorado"	"08"	"Male"	"M"	"65-74 years"	"65-74"	22736	1284701	1769.8
+	"Census Region 4: West"	"CENS-R4"	"Colorado"	"08"	"Male"	"M"	"75-84 years"	"75-84"	27952	567607	4924.5
+	"Census Region 4: West"	"CENS-R4"	"Colorado"	"08"	"Male"	"M"	"85+ years"	"85+"	28233	188203	15001.4
+	"Census Region 4: West"	"CENS-R4"	"Idaho"	"16"	"Female"	"F"	"< 1 year"	"1"	349	77978	447.6
+	"Census Region 4: West"	"CENS-R4"	"Idaho"	"16"	"Female"	"F"	"1-4 years"	"1-4"	64	321295	19.9
+	"Census Region 4: West"	"CENS-R4"	"Idaho"	"16"	"Female"	"F"	"5-9 years"	"5-9"	43	417948	10.3
+	"Census Region 4: West"	"CENS-R4"	"Idaho"	"16"	"Female"	"F"	"10-14 years"	"10-14"	54	413415	13.1
+	"Census Region 4: West"	"CENS-R4"	"Idaho"	"16"	"Female"	"F"	"15-19 years"	"15-19"	152	393896	38.6
+	"Census Region 4: West"	"CENS-R4"	"Idaho"	"16"	"Female"	"F"	"20-24 years"	"20-24"	201	375780	53.5
+	"Census Region 4: West"	"CENS-R4"	"Idaho"	"16"	"Female"	"F"	"25-34 years"	"25-34"	477	736202	64.8
+	"Census Region 4: West"	"CENS-R4"	"Idaho"	"16"	"Female"	"F"	"35-44 years"	"35-44"	886	681832	129.9
+	"Census Region 4: West"	"CENS-R4"	"Idaho"	"16"	"Female"	"F"	"45-54 years"	"45-54"	2029	709414	286.0
+	"Census Region 4: West"	"CENS-R4"	"Idaho"	"16"	"Female"	"F"	"55-64 years"	"55-64"	4142	693974	596.9
+	"Census Region 4: West"	"CENS-R4"	"Idaho"	"16"	"Female"	"F"	"65-74 years"	"65-74"	6514	466790	1395.5
+	"Census Region 4: West"	"CENS-R4"	"Idaho"	"16"	"Female"	"F"	"75-84 years"	"75-84"	10123	246492	4106.8
+	"Census Region 4: West"	"CENS-R4"	"Idaho"	"16"	"Female"	"F"	"85+ years"	"85+"	16937	118227	14325.8
+	"Census Region 4: West"	"CENS-R4"	"Idaho"	"16"	"Male"	"M"	"< 1 year"	"1"	492	81055	607.0
+	"Census Region 4: West"	"CENS-R4"	"Idaho"	"16"	"Male"	"M"	"1-4 years"	"1-4"	96	334800	28.7
+	"Census Region 4: West"	"CENS-R4"	"Idaho"	"16"	"Male"	"M"	"5-9 years"	"5-9"	60	439828	13.6
+	"Census Region 4: West"	"CENS-R4"	"Idaho"	"16"	"Male"	"M"	"10-14 years"	"10-14"	98	433556	22.6
+	"Census Region 4: West"	"CENS-R4"	"Idaho"	"16"	"Male"	"M"	"15-19 years"	"15-19"	301	413164	72.9
+	"Census Region 4: West"	"CENS-R4"	"Idaho"	"16"	"Male"	"M"	"20-24 years"	"20-24"	488	401057	121.7
+	"Census Region 4: West"	"CENS-R4"	"Idaho"	"16"	"Male"	"M"	"25-34 years"	"25-34"	978	762048	128.3
+	"Census Region 4: West"	"CENS-R4"	"Idaho"	"16"	"Male"	"M"	"35-44 years"	"35-44"	1458	700564	208.1
+	"Census Region 4: West"	"CENS-R4"	"Idaho"	"16"	"Male"	"M"	"45-54 years"	"45-54"	3087	703895	438.6
+	"Census Region 4: West"	"CENS-R4"	"Idaho"	"16"	"Male"	"M"	"55-64 years"	"55-64"	6486	673464	963.1
+	"Census Region 4: West"	"CENS-R4"	"Idaho"	"16"	"Male"	"M"	"65-74 years"	"65-74"	8865	451003	1965.6
+	"Census Region 4: West"	"CENS-R4"	"Idaho"	"16"	"Male"	"M"	"75-84 years"	"75-84"	11412	212102	5380.4
+	"Census Region 4: West"	"CENS-R4"	"Idaho"	"16"	"Male"	"M"	"85+ years"	"85+"	11099	69368	16000.2
+	"Census Region 4: West"	"CENS-R4"	"Montana"	"30"	"Female"	"F"	"< 1 year"	"1"	208	42241	492.4
+	"Census Region 4: West"	"CENS-R4"	"Montana"	"30"	"Female"	"F"	"1-4 years"	"1-4"	49	170200	28.8
+	"Census Region 4: West"	"CENS-R4"	"Montana"	"30"	"Female"	"F"	"5-9 years"	"5-9"	27	214374	12.6
+	"Census Region 4: West"	"CENS-R4"	"Montana"	"30"	"Female"	"F"	"10-14 years"	"10-14"	30	211098	14.2
+	"Census Region 4: West"	"CENS-R4"	"Montana"	"30"	"Female"	"F"	"15-19 years"	"15-19"	100	216520	46.2
+	"Census Region 4: West"	"CENS-R4"	"Montana"	"30"	"Female"	"F"	"20-24 years"	"20-24"	162	239081	67.8
+	"Census Region 4: West"	"CENS-R4"	"Montana"	"30"	"Female"	"F"	"25-34 years"	"25-34"	380	435388	87.3
+	"Census Region 4: West"	"CENS-R4"	"Montana"	"30"	"Female"	"F"	"35-44 years"	"35-44"	642	395022	162.5
+	"Census Region 4: West"	"CENS-R4"	"Montana"	"30"	"Female"	"F"	"45-54 years"	"45-54"	1647	480153	343.0
+	"Census Region 4: West"	"CENS-R4"	"Montana"	"30"	"Female"	"F"	"55-64 years"	"55-64"	3178	521055	609.9
+	"Census Region 4: West"	"CENS-R4"	"Montana"	"30"	"Female"	"F"	"65-74 years"	"65-74"	4691	330786	1418.1
+	"Census Region 4: West"	"CENS-R4"	"Montana"	"30"	"Female"	"F"	"75-84 years"	"75-84"	7442	183015	4066.3
+	"Census Region 4: West"	"CENS-R4"	"Montana"	"30"	"Female"	"F"	"85+ years"	"85+"	13038	95551	13645.1
+	"Census Region 4: West"	"CENS-R4"	"Montana"	"30"	"Male"	"M"	"< 1 year"	"1"	290	44325	654.3
+	"Census Region 4: West"	"CENS-R4"	"Montana"	"30"	"Male"	"M"	"1-4 years"	"1-4"	70	178258	39.3
+	"Census Region 4: West"	"CENS-R4"	"Montana"	"30"	"Male"	"M"	"5-9 years"	"5-9"	51	224981	22.7
+	"Census Region 4: West"	"CENS-R4"	"Montana"	"30"	"Male"	"M"	"10-14 years"	"10-14"	62	221353	28.0
+	"Census Region 4: West"	"CENS-R4"	"Montana"	"30"	"Male"	"M"	"15-19 years"	"15-19"	235	236227	99.5
+	"Census Region 4: West"	"CENS-R4"	"Montana"	"30"	"Male"	"M"	"20-24 years"	"20-24"	371	263097	141.0
+	"Census Region 4: West"	"CENS-R4"	"Montana"	"30"	"Male"	"M"	"25-34 years"	"25-34"	858	459585	186.7
+	"Census Region 4: West"	"CENS-R4"	"Montana"	"30"	"Male"	"M"	"35-44 years"	"35-44"	1095	410640	266.7
+	"Census Region 4: West"	"CENS-R4"	"Montana"	"30"	"Male"	"M"	"45-54 years"	"45-54"	2426	473001	512.9
+	"Census Region 4: West"	"CENS-R4"	"Montana"	"30"	"Male"	"M"	"55-64 years"	"55-64"	5102	512748	995.0
+	"Census Region 4: West"	"CENS-R4"	"Montana"	"30"	"Male"	"M"	"65-74 years"	"65-74"	6780	333386	2033.7
+	"Census Region 4: West"	"CENS-R4"	"Montana"	"30"	"Male"	"M"	"75-84 years"	"75-84"	8363	157215	5319.5
+	"Census Region 4: West"	"CENS-R4"	"Montana"	"30"	"Male"	"M"	"85+ years"	"85+"	8360	54906	15226.0
+	"Census Region 4: West"	"CENS-R4"	"Nevada"	"32"	"Female"	"F"	"< 1 year"	"1"	616	121972	505.0
+	"Census Region 4: West"	"CENS-R4"	"Nevada"	"32"	"Female"	"F"	"1-4 years"	"1-4"	105	499545	21.0
+	"Census Region 4: West"	"CENS-R4"	"Nevada"	"32"	"Female"	"F"	"5-9 years"	"5-9"	72	639299	11.3
+	"Census Region 4: West"	"CENS-R4"	"Nevada"	"32"	"Female"	"F"	"10-14 years"	"10-14"	95	630827	15.1
+	"Census Region 4: West"	"CENS-R4"	"Nevada"	"32"	"Female"	"F"	"15-19 years"	"15-19"	177	599947	29.5
+	"Census Region 4: West"	"CENS-R4"	"Nevada"	"32"	"Female"	"F"	"20-24 years"	"20-24"	339	636057	53.3
+	"Census Region 4: West"	"CENS-R4"	"Nevada"	"32"	"Female"	"F"	"25-34 years"	"25-34"	986	1378495	71.5
+	"Census Region 4: West"	"CENS-R4"	"Nevada"	"32"	"Female"	"F"	"35-44 years"	"35-44"	1876	1311927	143.0
+	"Census Region 4: West"	"CENS-R4"	"Nevada"	"32"	"Female"	"F"	"45-54 years"	"45-54"	4586	1311503	349.7
+	"Census Region 4: West"	"CENS-R4"	"Nevada"	"32"	"Female"	"F"	"55-64 years"	"55-64"	8703	1209571	719.5
+	"Census Region 4: West"	"CENS-R4"	"Nevada"	"32"	"Female"	"F"	"65-74 years"	"65-74"	13320	848313	1570.2
+	"Census Region 4: West"	"CENS-R4"	"Nevada"	"32"	"Female"	"F"	"75-84 years"	"75-84"	17225	402692	4277.5
+	"Census Region 4: West"	"CENS-R4"	"Nevada"	"32"	"Female"	"F"	"85+ years"	"85+"	20485	156731	13070.2
+	"Census Region 4: West"	"CENS-R4"	"Nevada"	"32"	"Male"	"M"	"< 1 year"	"1"	739	128425	575.4
+	"Census Region 4: West"	"CENS-R4"	"Nevada"	"32"	"Male"	"M"	"1-4 years"	"1-4"	173	523890	33.0
+	"Census Region 4: West"	"CENS-R4"	"Nevada"	"32"	"Male"	"M"	"5-9 years"	"5-9"	103	666817	15.4
+	"Census Region 4: West"	"CENS-R4"	"Nevada"	"32"	"Male"	"M"	"10-14 years"	"10-14"	107	659786	16.2
+	"Census Region 4: West"	"CENS-R4"	"Nevada"	"32"	"Male"	"M"	"15-19 years"	"15-19"	485	638391	76.0
+	"Census Region 4: West"	"CENS-R4"	"Nevada"	"32"	"Male"	"M"	"20-24 years"	"20-24"	896	662556	135.2
+	"Census Region 4: West"	"CENS-R4"	"Nevada"	"32"	"Male"	"M"	"25-34 years"	"25-34"	2158	1435027	150.4
+	"Census Region 4: West"	"CENS-R4"	"Nevada"	"32"	"Male"	"M"	"35-44 years"	"35-44"	3193	1364520	234.0
+	"Census Region 4: West"	"CENS-R4"	"Nevada"	"32"	"Male"	"M"	"45-54 years"	"45-54"	7383	1363641	541.4
+	"Census Region 4: West"	"CENS-R4"	"Nevada"	"32"	"Male"	"M"	"55-64 years"	"55-64"	13983	1162701	1202.6
+	"Census Region 4: West"	"CENS-R4"	"Nevada"	"32"	"Male"	"M"	"65-74 years"	"65-74"	19059	805858	2365.1
+	"Census Region 4: West"	"CENS-R4"	"Nevada"	"32"	"Male"	"M"	"75-84 years"	"75-84"	20044	359572	5574.4
+	"Census Region 4: West"	"CENS-R4"	"Nevada"	"32"	"Male"	"M"	"85+ years"	"85+"	13866	96725	14335.5
+	"Census Region 4: West"	"CENS-R4"	"Nevada"	"32"	"Male"	"M"	"Not Stated"	"NS"	15	Not Applicable	Not Applicable
+	"Census Region 4: West"	"CENS-R4"	"New Mexico"	"35"	"Female"	"F"	"< 1 year"	"1"	466	91016	512.0
+	"Census Region 4: West"	"CENS-R4"	"New Mexico"	"35"	"Female"	"F"	"1-4 years"	"1-4"	131	379563	34.5
+	"Census Region 4: West"	"CENS-R4"	"New Mexico"	"35"	"Female"	"F"	"5-9 years"	"5-9"	54	490547	11.0
+	"Census Region 4: West"	"CENS-R4"	"New Mexico"	"35"	"Female"	"F"	"10-14 years"	"10-14"	70	485418	14.4
+	"Census Region 4: West"	"CENS-R4"	"New Mexico"	"35"	"Female"	"F"	"15-19 years"	"15-19"	201	485954	41.4
+	"Census Region 4: West"	"CENS-R4"	"New Mexico"	"35"	"Female"	"F"	"20-24 years"	"20-24"	363	501546	72.4
+	"Census Region 4: West"	"CENS-R4"	"New Mexico"	"35"	"Female"	"F"	"25-34 years"	"25-34"	999	941726	106.1
+	"Census Region 4: West"	"CENS-R4"	"New Mexico"	"35"	"Female"	"F"	"35-44 years"	"35-44"	1593	858189	185.6
+	"Census Region 4: West"	"CENS-R4"	"New Mexico"	"35"	"Female"	"F"	"45-54 years"	"45-54"	3541	969689	365.2
+	"Census Region 4: West"	"CENS-R4"	"New Mexico"	"35"	"Female"	"F"	"55-64 years"	"55-64"	6204	975917	635.7
+	"Census Region 4: West"	"CENS-R4"	"New Mexico"	"35"	"Female"	"F"	"65-74 years"	"65-74"	8854	656066	1349.6
+	"Census Region 4: West"	"CENS-R4"	"New Mexico"	"35"	"Female"	"F"	"75-84 years"	"75-84"	13550	357011	3795.4
+	"Census Region 4: West"	"CENS-R4"	"New Mexico"	"35"	"Female"	"F"	"85+ years"	"85+"	19830	158980	12473.3
+	"Census Region 4: West"	"CENS-R4"	"New Mexico"	"35"	"Male"	"M"	"< 1 year"	"1"	595	94903	627.0
+	"Census Region 4: West"	"CENS-R4"	"New Mexico"	"35"	"Male"	"M"	"1-4 years"	"1-4"	140	396259	35.3
+	"Census Region 4: West"	"CENS-R4"	"New Mexico"	"35"	"Male"	"M"	"5-9 years"	"5-9"	66	508472	13.0
+	"Census Region 4: West"	"CENS-R4"	"New Mexico"	"35"	"Male"	"M"	"10-14 years"	"10-14"	109	501664	21.7
+	"Census Region 4: West"	"CENS-R4"	"New Mexico"	"35"	"Male"	"M"	"15-19 years"	"15-19"	462	511488	90.3
+	"Census Region 4: West"	"CENS-R4"	"New Mexico"	"35"	"Male"	"M"	"20-24 years"	"20-24"	966	538821	179.3
+	"Census Region 4: West"	"CENS-R4"	"New Mexico"	"35"	"Male"	"M"	"25-34 years"	"25-34"	2422	987734	245.2
+	"Census Region 4: West"	"CENS-R4"	"New Mexico"	"35"	"Male"	"M"	"35-44 years"	"35-44"	3056	856616	356.8
+	"Census Region 4: West"	"CENS-R4"	"New Mexico"	"35"	"Male"	"M"	"45-54 years"	"45-54"	6005	931667	644.5
+	"Census Region 4: West"	"CENS-R4"	"New Mexico"	"35"	"Male"	"M"	"55-64 years"	"55-64"	10149	896841	1131.6
+	"Census Region 4: West"	"CENS-R4"	"New Mexico"	"35"	"Male"	"M"	"65-74 years"	"65-74"	12102	590631	2049.0
+	"Census Region 4: West"	"CENS-R4"	"New Mexico"	"35"	"Male"	"M"	"75-84 years"	"75-84"	14625	290650	5031.8
+	"Census Region 4: West"	"CENS-R4"	"New Mexico"	"35"	"Male"	"M"	"85+ years"	"85+"	12956	92911	13944.5
+	"Census Region 4: West"	"CENS-R4"	"New Mexico"	"35"	"Male"	"M"	"Not Stated"	"NS"	14	Not Applicable	Not Applicable
+	"Census Region 4: West"	"CENS-R4"	"Utah"	"49"	"Female"	"F"	"< 1 year"	"1"	733	173652	422.1
+	"Census Region 4: West"	"CENS-R4"	"Utah"	"49"	"Female"	"F"	"1-4 years"	"1-4"	149	701356	21.2
+	"Census Region 4: West"	"CENS-R4"	"Utah"	"49"	"Female"	"F"	"5-9 years"	"5-9"	95	881421	10.8
+	"Census Region 4: West"	"CENS-R4"	"Utah"	"49"	"Female"	"F"	"10-14 years"	"10-14"	86	830526	10.4
+	"Census Region 4: West"	"CENS-R4"	"Utah"	"49"	"Female"	"F"	"15-19 years"	"15-19"	259	775588	33.4
+	"Census Region 4: West"	"CENS-R4"	"Utah"	"49"	"Female"	"F"	"20-24 years"	"20-24"	346	835927	41.4
+	"Census Region 4: West"	"CENS-R4"	"Utah"	"49"	"Female"	"F"	"25-34 years"	"25-34"	1118	1524512	73.3
+	"Census Region 4: West"	"CENS-R4"	"Utah"	"49"	"Female"	"F"	"35-44 years"	"35-44"	1661	1277566	130.0
+	"Census Region 4: West"	"CENS-R4"	"Utah"	"49"	"Female"	"F"	"45-54 years"	"45-54"	3029	1074175	282.0
+	"Census Region 4: West"	"CENS-R4"	"Utah"	"49"	"Female"	"F"	"55-64 years"	"55-64"	5330	953656	558.9
+	"Census Region 4: West"	"CENS-R4"	"Utah"	"49"	"Female"	"F"	"65-74 years"	"65-74"	7808	598677	1304.2
+	"Census Region 4: West"	"CENS-R4"	"Utah"	"49"	"Female"	"F"	"75-84 years"	"75-84"	13457	330491	4071.8
+	"Census Region 4: West"	"CENS-R4"	"Utah"	"49"	"Female"	"F"	"85+ years"	"85+"	21464	145189	14783.5
+	"Census Region 4: West"	"CENS-R4"	"Utah"	"49"	"Male"	"M"	"< 1 year"	"1"	1100	183028	601.0
+	"Census Region 4: West"	"CENS-R4"	"Utah"	"49"	"Male"	"M"	"1-4 years"	"1-4"	178	739211	24.1
+	"Census Region 4: West"	"CENS-R4"	"Utah"	"49"	"Male"	"M"	"5-9 years"	"5-9"	102	929599	11.0
+	"Census Region 4: West"	"CENS-R4"	"Utah"	"49"	"Male"	"M"	"10-14 years"	"10-14"	180	875215	20.6
+	"Census Region 4: West"	"CENS-R4"	"Utah"	"49"	"Male"	"M"	"15-19 years"	"15-19"	547	802887	68.1
+	"Census Region 4: West"	"CENS-R4"	"Utah"	"49"	"Male"	"M"	"20-24 years"	"20-24"	957	868112	110.2
+	"Census Region 4: West"	"CENS-R4"	"Utah"	"49"	"Male"	"M"	"25-34 years"	"25-34"	2314	1578578	146.6
+	"Census Region 4: West"	"CENS-R4"	"Utah"	"49"	"Male"	"M"	"35-44 years"	"35-44"	2624	1327731	197.6
+	"Census Region 4: West"	"CENS-R4"	"Utah"	"49"	"Male"	"M"	"45-54 years"	"45-54"	4465	1079400	413.7
+	"Census Region 4: West"	"CENS-R4"	"Utah"	"49"	"Male"	"M"	"55-64 years"	"55-64"	7960	922465	862.9
+	"Census Region 4: West"	"CENS-R4"	"Utah"	"49"	"Male"	"M"	"65-74 years"	"65-74"	10005	547519	1827.3
+	"Census Region 4: West"	"CENS-R4"	"Utah"	"49"	"Male"	"M"	"75-84 years"	"75-84"	13807	274354	5032.5
+	"Census Region 4: West"	"CENS-R4"	"Utah"	"49"	"Male"	"M"	"85+ years"	"85+"	14268	91304	15626.9
+	"Census Region 4: West"	"CENS-R4"	"Wyoming"	"56"	"Female"	"F"	"< 1 year"	"1"	123	25762	477.4
+	"Census Region 4: West"	"CENS-R4"	"Wyoming"	"56"	"Female"	"F"	"1-4 years"	"1-4"	36	107312	33.5
+	"Census Region 4: West"	"CENS-R4"	"Wyoming"	"56"	"Female"	"F"	"5-9 years"	"5-9"	15	134772	11.1 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Wyoming"	"56"	"Female"	"F"	"10-14 years"	"10-14"	12	125232	9.6 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Wyoming"	"56"	"Female"	"F"	"15-19 years"	"15-19"	61	125510	48.6
+	"Census Region 4: West"	"CENS-R4"	"Wyoming"	"56"	"Female"	"F"	"20-24 years"	"20-24"	73	137896	52.9
+	"Census Region 4: West"	"CENS-R4"	"Wyoming"	"56"	"Female"	"F"	"25-34 years"	"25-34"	241	269686	89.4
+	"Census Region 4: West"	"CENS-R4"	"Wyoming"	"56"	"Female"	"F"	"35-44 years"	"35-44"	400	230863	173.3
+	"Census Region 4: West"	"CENS-R4"	"Wyoming"	"56"	"Female"	"F"	"45-54 years"	"45-54"	911	262126	347.5
+	"Census Region 4: West"	"CENS-R4"	"Wyoming"	"56"	"Female"	"F"	"55-64 years"	"55-64"	1732	271205	638.6
+	"Census Region 4: West"	"CENS-R4"	"Wyoming"	"56"	"Female"	"F"	"65-74 years"	"65-74"	2446	160564	1523.4
+	"Census Region 4: West"	"CENS-R4"	"Wyoming"	"56"	"Female"	"F"	"75-84 years"	"75-84"	3593	87533	4104.7
+	"Census Region 4: West"	"CENS-R4"	"Wyoming"	"56"	"Female"	"F"	"85+ years"	"85+"	5449	42866	12711.7
+	"Census Region 4: West"	"CENS-R4"	"Wyoming"	"56"	"Male"	"M"	"< 1 year"	"1"	176	27317	644.3
+	"Census Region 4: West"	"CENS-R4"	"Wyoming"	"56"	"Male"	"M"	"1-4 years"	"1-4"	35	112745	31.0
+	"Census Region 4: West"	"CENS-R4"	"Wyoming"	"56"	"Male"	"M"	"5-9 years"	"5-9"	24	141777	16.9
+	"Census Region 4: West"	"CENS-R4"	"Wyoming"	"56"	"Male"	"M"	"10-14 years"	"10-14"	28	133621	21.0
+	"Census Region 4: West"	"CENS-R4"	"Wyoming"	"56"	"Male"	"M"	"15-19 years"	"15-19"	130	135070	96.2
+	"Census Region 4: West"	"CENS-R4"	"Wyoming"	"56"	"Male"	"M"	"20-24 years"	"20-24"	252	155009	162.6
+	"Census Region 4: West"	"CENS-R4"	"Wyoming"	"56"	"Male"	"M"	"25-34 years"	"25-34"	577	296311	194.7
+	"Census Region 4: West"	"CENS-R4"	"Wyoming"	"56"	"Male"	"M"	"35-44 years"	"35-44"	632	252514	250.3
+	"Census Region 4: West"	"CENS-R4"	"Wyoming"	"56"	"Male"	"M"	"45-54 years"	"45-54"	1430	269847	529.9
+	"Census Region 4: West"	"CENS-R4"	"Wyoming"	"56"	"Male"	"M"	"55-64 years"	"55-64"	2682	281356	953.2
+	"Census Region 4: West"	"CENS-R4"	"Wyoming"	"56"	"Male"	"M"	"65-74 years"	"65-74"	3349	161257	2076.8
+	"Census Region 4: West"	"CENS-R4"	"Wyoming"	"56"	"Male"	"M"	"75-84 years"	"75-84"	3939	73229	5379.0
+	"Census Region 4: West"	"CENS-R4"	"Wyoming"	"56"	"Male"	"M"	"85+ years"	"85+"	3642	25118	14499.6
+	"Census Region 4: West"	"CENS-R4"	"Alaska"	"02"	"Female"	"F"	"< 1 year"	"1"	180	37994	473.8
+	"Census Region 4: West"	"CENS-R4"	"Alaska"	"02"	"Female"	"F"	"1-4 years"	"1-4"	51	148289	34.4
+	"Census Region 4: West"	"CENS-R4"	"Alaska"	"02"	"Female"	"F"	"5-9 years"	"5-9"	17	176632	9.6 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Alaska"	"02"	"Female"	"F"	"10-14 years"	"10-14"	31	171451	18.1
+	"Census Region 4: West"	"CENS-R4"	"Alaska"	"02"	"Female"	"F"	"15-19 years"	"15-19"	91	164811	55.2
+	"Census Region 4: West"	"CENS-R4"	"Alaska"	"02"	"Female"	"F"	"20-24 years"	"20-24"	140	179635	77.9
+	"Census Region 4: West"	"CENS-R4"	"Alaska"	"02"	"Female"	"F"	"25-34 years"	"25-34"	376	372774	100.9
+	"Census Region 4: West"	"CENS-R4"	"Alaska"	"02"	"Female"	"F"	"35-44 years"	"35-44"	505	307928	164.0
+	"Census Region 4: West"	"CENS-R4"	"Alaska"	"02"	"Female"	"F"	"45-54 years"	"45-54"	1211	343060	353.0
+	"Census Region 4: West"	"CENS-R4"	"Alaska"	"02"	"Female"	"F"	"55-64 years"	"55-64"	1892	309025	612.2
+	"Census Region 4: West"	"CENS-R4"	"Alaska"	"02"	"Female"	"F"	"65-74 years"	"65-74"	2128	147215	1445.5
+	"Census Region 4: West"	"CENS-R4"	"Alaska"	"02"	"Female"	"F"	"75-84 years"	"75-84"	2503	61844	4047.3
+	"Census Region 4: West"	"CENS-R4"	"Alaska"	"02"	"Female"	"F"	"85+ years"	"85+"	3031	25095	12078.1
+	"Census Region 4: West"	"CENS-R4"	"Alaska"	"02"	"Male"	"M"	"< 1 year"	"1"	241	39914	603.8
+	"Census Region 4: West"	"CENS-R4"	"Alaska"	"02"	"Male"	"M"	"1-4 years"	"1-4"	74	157030	47.1
+	"Census Region 4: West"	"CENS-R4"	"Alaska"	"02"	"Male"	"M"	"5-9 years"	"5-9"	35	186968	18.7
+	"Census Region 4: West"	"CENS-R4"	"Alaska"	"02"	"Male"	"M"	"10-14 years"	"10-14"	49	181295	27.0
+	"Census Region 4: West"	"CENS-R4"	"Alaska"	"02"	"Male"	"M"	"15-19 years"	"15-19"	170	183347	92.7
+	"Census Region 4: West"	"CENS-R4"	"Alaska"	"02"	"Male"	"M"	"20-24 years"	"20-24"	428	227379	188.2
+	"Census Region 4: West"	"CENS-R4"	"Alaska"	"02"	"Male"	"M"	"25-34 years"	"25-34"	834	419105	199.0
+	"Census Region 4: West"	"CENS-R4"	"Alaska"	"02"	"Male"	"M"	"35-44 years"	"35-44"	868	336296	258.1
+	"Census Region 4: West"	"CENS-R4"	"Alaska"	"02"	"Male"	"M"	"45-54 years"	"45-54"	1873	374984	499.5
+	"Census Region 4: West"	"CENS-R4"	"Alaska"	"02"	"Male"	"M"	"55-64 years"	"55-64"	3381	337855	1000.7
+	"Census Region 4: West"	"CENS-R4"	"Alaska"	"02"	"Male"	"M"	"65-74 years"	"65-74"	3271	159138	2055.4
+	"Census Region 4: West"	"CENS-R4"	"Alaska"	"02"	"Male"	"M"	"75-84 years"	"75-84"	2996	53975	5550.7
+	"Census Region 4: West"	"CENS-R4"	"Alaska"	"02"	"Male"	"M"	"85+ years"	"85+"	2043	14181	14406.6
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"Female"	"F"	"< 1 year"	"1"	7085	1704105	415.8
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"Female"	"F"	"1-4 years"	"1-4"	1259	6882684	18.3
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"Female"	"F"	"5-9 years"	"5-9"	721	8686652	8.3
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"Female"	"F"	"10-14 years"	"10-14"	860	8709357	9.9
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"Female"	"F"	"15-19 years"	"15-19"	1925	9119536	21.1
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"Female"	"F"	"20-24 years"	"20-24"	3178	9674736	32.8
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"Female"	"F"	"25-34 years"	"25-34"	8817	19138248	46.1
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"Female"	"F"	"35-44 years"	"35-44"	17113	17997896	95.1
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"Female"	"F"	"45-54 years"	"45-54"	45086	18379042	245.3
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"Female"	"F"	"55-64 years"	"55-64"	86388	15894405	543.5
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"Female"	"F"	"65-74 years"	"65-74"	122239	10045372	1216.9
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"Female"	"F"	"75-84 years"	"75-84"	198840	5737925	3465.4
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"Female"	"F"	"85+ years"	"85+"	353434	2996103	11796.5
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"Female"	"F"	"Not Stated"	"NS"	47	Not Applicable	Not Applicable
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"Male"	"M"	"< 1 year"	"1"	8721	1783808	488.9
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"Male"	"M"	"1-4 years"	"1-4"	1509	7197303	21.0
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"Male"	"M"	"5-9 years"	"5-9"	898	9072917	9.9
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"Male"	"M"	"10-14 years"	"10-14"	1190	9078507	13.1
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"Male"	"M"	"15-19 years"	"15-19"	5412	9608103	56.3
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"Male"	"M"	"20-24 years"	"20-24"	10607	10418046	101.8
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"Male"	"M"	"25-34 years"	"25-34"	22408	20106779	111.4
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"Male"	"M"	"35-44 years"	"35-44"	30515	18130589	168.3
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"Male"	"M"	"45-54 years"	"45-54"	73204	18205767	402.1
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"Male"	"M"	"55-64 years"	"55-64"	136832	14879452	919.6
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"Male"	"M"	"65-74 years"	"65-74"	161472	8723253	1851.1
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"Male"	"M"	"75-84 years"	"75-84"	205924	4364335	4718.3
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"Male"	"M"	"85+ years"	"85+"	226451	1666941	13584.8
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"Male"	"M"	"Not Stated"	"NS"	107	Not Applicable	Not Applicable
+	"Census Region 4: West"	"CENS-R4"	"Hawaii"	"15"	"Female"	"F"	"< 1 year"	"1"	317	63067	502.6
+	"Census Region 4: West"	"CENS-R4"	"Hawaii"	"15"	"Female"	"F"	"1-4 years"	"1-4"	46	246290	18.7
+	"Census Region 4: West"	"CENS-R4"	"Hawaii"	"15"	"Female"	"F"	"5-9 years"	"5-9"	30	290312	10.3
+	"Census Region 4: West"	"CENS-R4"	"Hawaii"	"15"	"Female"	"F"	"10-14 years"	"10-14"	27	278649	9.7
+	"Census Region 4: West"	"CENS-R4"	"Hawaii"	"15"	"Female"	"F"	"15-19 years"	"15-19"	77	274901	28.0
+	"Census Region 4: West"	"CENS-R4"	"Hawaii"	"15"	"Female"	"F"	"20-24 years"	"20-24"	113	312721	36.1
+	"Census Region 4: West"	"CENS-R4"	"Hawaii"	"15"	"Female"	"F"	"25-34 years"	"25-34"	296	668664	44.3
+	"Census Region 4: West"	"CENS-R4"	"Hawaii"	"15"	"Female"	"F"	"35-44 years"	"35-44"	627	606542	103.4
+	"Census Region 4: West"	"CENS-R4"	"Hawaii"	"15"	"Female"	"F"	"45-54 years"	"45-54"	1642	648247	253.3
+	"Census Region 4: West"	"CENS-R4"	"Hawaii"	"15"	"Female"	"F"	"55-64 years"	"55-64"	3316	646506	512.9
+	"Census Region 4: West"	"CENS-R4"	"Hawaii"	"15"	"Female"	"F"	"65-74 years"	"65-74"	4656	434025	1072.7
+	"Census Region 4: West"	"CENS-R4"	"Hawaii"	"15"	"Female"	"F"	"75-84 years"	"75-84"	7465	258986	2882.4
+	"Census Region 4: West"	"CENS-R4"	"Hawaii"	"15"	"Female"	"F"	"85+ years"	"85+"	15456	156602	9869.6
+	"Census Region 4: West"	"CENS-R4"	"Hawaii"	"15"	"Male"	"M"	"< 1 year"	"1"	420	66278	633.7
+	"Census Region 4: West"	"CENS-R4"	"Hawaii"	"15"	"Male"	"M"	"1-4 years"	"1-4"	60	260939	23.0
+	"Census Region 4: West"	"CENS-R4"	"Hawaii"	"15"	"Male"	"M"	"5-9 years"	"5-9"	34	308423	11.0
+	"Census Region 4: West"	"CENS-R4"	"Hawaii"	"15"	"Male"	"M"	"10-14 years"	"10-14"	41	294441	13.9
+	"Census Region 4: West"	"CENS-R4"	"Hawaii"	"15"	"Male"	"M"	"15-19 years"	"15-19"	168	295472	56.9
+	"Census Region 4: West"	"CENS-R4"	"Hawaii"	"15"	"Male"	"M"	"20-24 years"	"20-24"	372	385061	96.6
+	"Census Region 4: West"	"CENS-R4"	"Hawaii"	"15"	"Male"	"M"	"25-34 years"	"25-34"	808	723232	111.7
+	"Census Region 4: West"	"CENS-R4"	"Hawaii"	"15"	"Male"	"M"	"35-44 years"	"35-44"	1233	625282	197.2
+	"Census Region 4: West"	"CENS-R4"	"Hawaii"	"15"	"Male"	"M"	"45-54 years"	"45-54"	2947	649120	454.0
+	"Census Region 4: West"	"CENS-R4"	"Hawaii"	"15"	"Male"	"M"	"55-64 years"	"55-64"	5953	627496	948.7
+	"Census Region 4: West"	"CENS-R4"	"Hawaii"	"15"	"Male"	"M"	"65-74 years"	"65-74"	7247	404037	1793.6
+	"Census Region 4: West"	"CENS-R4"	"Hawaii"	"15"	"Male"	"M"	"75-84 years"	"75-84"	8486	191451	4432.5
+	"Census Region 4: West"	"CENS-R4"	"Hawaii"	"15"	"Male"	"M"	"85+ years"	"85+"	11205	89785	12479.8
+	"Census Region 4: West"	"CENS-R4"	"Oregon"	"41"	"Female"	"F"	"< 1 year"	"1"	705	156372	450.8
+	"Census Region 4: West"	"CENS-R4"	"Oregon"	"41"	"Female"	"F"	"1-4 years"	"1-4"	117	641568	18.2
+	"Census Region 4: West"	"CENS-R4"	"Oregon"	"41"	"Female"	"F"	"5-9 years"	"5-9"	70	821287	8.5
+	"Census Region 4: West"	"CENS-R4"	"Oregon"	"41"	"Female"	"F"	"10-14 years"	"10-14"	102	825050	12.4
+	"Census Region 4: West"	"CENS-R4"	"Oregon"	"41"	"Female"	"F"	"15-19 years"	"15-19"	224	842980	26.6
+	"Census Region 4: West"	"CENS-R4"	"Oregon"	"41"	"Female"	"F"	"20-24 years"	"20-24"	358	912252	39.2
+	"Census Region 4: West"	"CENS-R4"	"Oregon"	"41"	"Female"	"F"	"25-34 years"	"25-34"	1026	1877758	54.6
+	"Census Region 4: West"	"CENS-R4"	"Oregon"	"41"	"Female"	"F"	"35-44 years"	"35-44"	2049	1771164	115.7
+	"Census Region 4: West"	"CENS-R4"	"Oregon"	"41"	"Female"	"F"	"45-54 years"	"45-54"	5587	1835648	304.4
+	"Census Region 4: West"	"CENS-R4"	"Oregon"	"41"	"Female"	"F"	"55-64 years"	"55-64"	11954	1930090	619.3
+	"Census Region 4: West"	"CENS-R4"	"Oregon"	"41"	"Female"	"F"	"65-74 years"	"65-74"	17933	1283129	1397.6
+	"Census Region 4: West"	"CENS-R4"	"Oregon"	"41"	"Female"	"F"	"75-84 years"	"75-84"	27304	674879	4045.8
+	"Census Region 4: West"	"CENS-R4"	"Oregon"	"41"	"Female"	"F"	"85+ years"	"85+"	49720	372489	13348.0
+	"Census Region 4: West"	"CENS-R4"	"Oregon"	"41"	"Male"	"M"	"< 1 year"	"1"	869	164552	528.1
+	"Census Region 4: West"	"CENS-R4"	"Oregon"	"41"	"Male"	"M"	"1-4 years"	"1-4"	156	674675	23.1
+	"Census Region 4: West"	"CENS-R4"	"Oregon"	"41"	"Male"	"M"	"5-9 years"	"5-9"	90	858305	10.5
+	"Census Region 4: West"	"CENS-R4"	"Oregon"	"41"	"Male"	"M"	"10-14 years"	"10-14"	132	861685	15.3
+	"Census Region 4: West"	"CENS-R4"	"Oregon"	"41"	"Male"	"M"	"15-19 years"	"15-19"	518	886246	58.4
+	"Census Region 4: West"	"CENS-R4"	"Oregon"	"41"	"Male"	"M"	"20-24 years"	"20-24"	1029	943441	109.1
+	"Census Region 4: West"	"CENS-R4"	"Oregon"	"41"	"Male"	"M"	"25-34 years"	"25-34"	2349	1918355	122.4
+	"Census Region 4: West"	"CENS-R4"	"Oregon"	"41"	"Male"	"M"	"35-44 years"	"35-44"	3436	1818543	188.9
+	"Census Region 4: West"	"CENS-R4"	"Oregon"	"41"	"Male"	"M"	"45-54 years"	"45-54"	8479	1805885	469.5
+	"Census Region 4: West"	"CENS-R4"	"Oregon"	"41"	"Male"	"M"	"55-64 years"	"55-64"	18488	1807199	1023.0
+	"Census Region 4: West"	"CENS-R4"	"Oregon"	"41"	"Male"	"M"	"65-74 years"	"65-74"	24125	1180295	2044.0
+	"Census Region 4: West"	"CENS-R4"	"Oregon"	"41"	"Male"	"M"	"75-84 years"	"75-84"	28653	542920	5277.6
+	"Census Region 4: West"	"CENS-R4"	"Oregon"	"41"	"Male"	"M"	"85+ years"	"85+"	31537	203675	15484.0
+	"Census Region 4: West"	"CENS-R4"	"Washington"	"53"	"Female"	"F"	"< 1 year"	"1"	1281	301538	424.8
+	"Census Region 4: West"	"CENS-R4"	"Washington"	"53"	"Female"	"F"	"1-4 years"	"1-4"	202	1224037	16.5
+	"Census Region 4: West"	"CENS-R4"	"Washington"	"53"	"Female"	"F"	"5-9 years"	"5-9"	150	1521678	9.9
+	"Census Region 4: West"	"CENS-R4"	"Washington"	"53"	"Female"	"F"	"10-14 years"	"10-14"	140	1502009	9.3
+	"Census Region 4: West"	"CENS-R4"	"Washington"	"53"	"Female"	"F"	"15-19 years"	"15-19"	353	1513538	23.3
+	"Census Region 4: West"	"CENS-R4"	"Washington"	"53"	"Female"	"F"	"20-24 years"	"20-24"	635	1630707	38.9
+	"Census Region 4: West"	"CENS-R4"	"Washington"	"53"	"Female"	"F"	"25-34 years"	"25-34"	1863	3421305	54.5
+	"Census Region 4: West"	"CENS-R4"	"Washington"	"53"	"Female"	"F"	"35-44 years"	"35-44"	3344	3173551	105.4
+	"Census Region 4: West"	"CENS-R4"	"Washington"	"53"	"Female"	"F"	"45-54 years"	"45-54"	9030	3362727	268.5
+	"Census Region 4: West"	"CENS-R4"	"Washington"	"53"	"Female"	"F"	"55-64 years"	"55-64"	18269	3218412	567.6
+	"Census Region 4: West"	"CENS-R4"	"Washington"	"53"	"Female"	"F"	"65-74 years"	"65-74"	26970	2026498	1330.9
+	"Census Region 4: West"	"CENS-R4"	"Washington"	"53"	"Female"	"F"	"75-84 years"	"75-84"	40619	1046406	3881.8
+	"Census Region 4: West"	"CENS-R4"	"Washington"	"53"	"Female"	"F"	"85+ years"	"85+"	74260	572130	12979.6
+	"Census Region 4: West"	"CENS-R4"	"Washington"	"53"	"Male"	"M"	"< 1 year"	"1"	1567	316458	495.2
+	"Census Region 4: West"	"CENS-R4"	"Washington"	"53"	"Male"	"M"	"1-4 years"	"1-4"	289	1279474	22.6
+	"Census Region 4: West"	"CENS-R4"	"Washington"	"53"	"Male"	"M"	"5-9 years"	"5-9"	157	1592021	9.9
+	"Census Region 4: West"	"CENS-R4"	"Washington"	"53"	"Male"	"M"	"10-14 years"	"10-14"	233	1571629	14.8
+	"Census Region 4: West"	"CENS-R4"	"Washington"	"53"	"Male"	"M"	"15-19 years"	"15-19"	951	1602153	59.4
+	"Census Region 4: West"	"CENS-R4"	"Washington"	"53"	"Male"	"M"	"20-24 years"	"20-24"	1842	1765017	104.4
+	"Census Region 4: West"	"CENS-R4"	"Washington"	"53"	"Male"	"M"	"25-34 years"	"25-34"	4151	3574590	116.1
+	"Census Region 4: West"	"CENS-R4"	"Washington"	"53"	"Male"	"M"	"35-44 years"	"35-44"	5594	3255038	171.9
+	"Census Region 4: West"	"CENS-R4"	"Washington"	"53"	"Male"	"M"	"45-54 years"	"45-54"	13833	3365331	411.0
+	"Census Region 4: West"	"CENS-R4"	"Washington"	"53"	"Male"	"M"	"55-64 years"	"55-64"	28558	3065360	931.6
+	"Census Region 4: West"	"CENS-R4"	"Washington"	"53"	"Male"	"M"	"65-74 years"	"65-74"	35899	1865027	1924.9
+	"Census Region 4: West"	"CENS-R4"	"Washington"	"53"	"Male"	"M"	"75-84 years"	"75-84"	43516	838868	5187.5
+	"Census Region 4: West"	"CENS-R4"	"Washington"	"53"	"Male"	"M"	"85+ years"	"85+"	46957	307276	15281.7
+"---"
+"Dataset: Compressed Mortality, 1999-2016"
+"Query Parameters:"
+"Year: 2010; 2011; 2012; 2013; 2014; 2015; 2016"
+"Group By: Census Region; State; Gender; Age Group"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cmf.html for more information."
+"---"
+"Query Date: Dec 13, 2021 6:41:52 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Compressed Mortality File"
+"1999-2016 on CDC WONDER Online Database, released June 2017. Data are from the Compressed Mortality File 1999-2016 Series 20 No."
+"2U, 2016, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/cmf-icd10.html on Dec 13, 2021 6:41:52 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Due to confidentiality constraints, sub-national death counts and rates are suppressed when the number of deaths is less than"
+"10. Figures representing infant deaths and births have additional constraints for national and local data. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Assurance of Confidentiality."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Unreliable."
+"3. About sub-national population figures for regions, divisions, states and counties: population figures for 1999 are from the"
+"1990-1999 series of bridged-race intercensal estimates of the July 1 resident population; population figures for 2000 and 2010"
+"are bridged-race April 1 census counts; population figures for 2001-2009 are from the revised 2000-2009 series of bridged-race"
+"intercensal estimates of the July 1 resident population; and population figures for 2011-2015 are bridged-race postcensal"
+"estimates of the July 1 resident population, from the Vintage 2015 series released by NCHS on June 28, 2016."
+"4. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/cmf.html#Age Group."
+"5. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Not Stated."
+"6. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#2014-Revision."
