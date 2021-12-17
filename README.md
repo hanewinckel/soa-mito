@@ -1,5 +1,5 @@
 # soa-mito
-# SOA Emerging Issues Article - Actuaries Can Excel at Data Science
+# SOA Emerging Issues Article - Actuaries Can Excel&reg; at Data Science
 ## 
 # Author: Nick Hanewinckel, FSA, CERA, MAAA 
 
